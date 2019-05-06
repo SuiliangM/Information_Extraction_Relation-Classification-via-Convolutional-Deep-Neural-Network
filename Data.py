@@ -1,12 +1,7 @@
 import glob
 import os
 import re
-
-import fasttext
 from nltk import word_tokenize
-from nltk.corpus import wordnet
-from tqdm import tqdm
-import fasttext
 
 class Data(object):
     def __init__(self, folder_2007, file_2010):
@@ -102,25 +97,3 @@ class Data(object):
             for line in lines:
                 output_line = " ".join(line.split()[1:]) + '\n'
                 output.write(output_line)
-
-
-data = Data('./2007', './2010')
-# data.process_2007()
-data.split_2007()
-# data.build_2007_corpus('corpus.txt')
-
-# model = fasttext.skipgram('corpus.txt', 'model')
-# model = fasttext.load_model('model.bin')
-# print(model['I'])
-
-
-train_files = glob.glob('split_2007/train_*.txt')
-for file in train_files:
-    num = re.search('train_(\d)', file).group(1)
-    classifier = fasttext.supervised(file, 'models/{}'.format(num), epoch=25, lr=1.0, min_count=1)
-    result = classifier.test('split_2007/dev_{}.txt'.format(num))
-
-    precision = result.precision
-    recall = result.recall
-    f1 = 2 * precision * recall / (precision + recall)
-    print(f1)
