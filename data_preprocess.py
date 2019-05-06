@@ -57,9 +57,9 @@ class Data(object):
             tokens = self._clean_tokens(sentence_num, tokens)
             
             label = re.search('"(true|false)"', labels).group(1)
-
-            fOut.write(" ".join([label, " ".join(tokens[1:])]))
-            fOut.write("\n")
+            
+            out_line = "__lablle__{}, {}\n".format(label, " ".join(tokens[1:]))
+            fOut.write(out_line)
         fOut.close()
             
         print(outputpath, "created")
