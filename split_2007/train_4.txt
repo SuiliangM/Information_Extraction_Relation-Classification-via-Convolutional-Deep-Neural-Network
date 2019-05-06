@@ -1,0 +1,100 @@
+__label__false, The E1_START physician bill E1_END is from the E2_START physician E2_END who provided your care during your hospital stay or the physician who read and interpreted your test results .
+__label__false, How can you prove that a E1_START gas E1_END takes up E2_START space E2_END ?
+__label__false, Data managers and vendors learned the value of sharing and reusing E1_START resources E1_END from a E2_START common repository E2_END decades ago .
+__label__true, She said that he described the meeting with her as an exception , since 'he does not normally have meetings directly with E1_START engineers E1_END from the E2_START regions E2_END . '
+__label__true, E1_START Cinnamon oil E1_END is distilled from E2_START bark chips E2_END and used to alleviate stomach upsets .
+__label__false, The E1_START move E1_END from E2_START binary access E2_END ( yes or no ) to fine-grained authorization betrays a shift in mindset : from a defensible perimeter to a qualifier that identifies who can access what room .
+__label__false, The E1_START person E1_END providing the E2_START alibi E2_END could be the culprit and would be providing a fabricated alibi .
+__label__false, Over the top of the hill was a E1_START fairly-decent refugee camp E1_END from a E2_START war E2_END that has never really ended .
+__label__false, An opening is present in the diaphragm ( the muscle that separates the E1_START chest cavity E1_END from the E2_START abdominal cavity E2_END ) .
+__label__false, For projects submitted at national level , the E1_START volunteer E1_END is sent by a E2_START sending organization E2_END legally established in his/her country of residence .
+__label__false, You move the direction the E1_START mouse E1_END is from the E2_START crosshair E2_END .
+__label__true, If the E1_START cited document E1_END is from the E2_START informative bibliography E2_END , the bibliographic number should be provided in the text and enclosed with brackets .
+__label__true, When Josh visits the Tatums , Josh meets his blonde haired twin cousin and two beautiful E1_START country E1_END E2_START cousins E2_END .
+__label__false, The E1_START challenges E1_END are being addressed from a E2_START manufacturing standpoint E2_END rather than ICT solutions that could answer them .
+__label__true, It 's unfortunate you did n't try a E1_START potato E1_END E2_START vodka E2_END .
+__label__true, The E1_START tests E1_END are generated randomly from a E2_START bank E2_END of questions developed for each module .
+__label__false, The E1_START algorithm E1_END generates E2_START provable primes E2_END rather than only probable primes and is nevertheless faster than the known algorithms based on pseudo-primality .
+__label__false, Suddenly a E1_START nurse E1_END takes off E2_START her familiar loose-fitting clothes E2_END , and dresses her in clothes , which fit her more closely .
+__label__false, The guarantees so painfully obtained by formal verification of the source program are useless if the E1_START compiler E1_END generates E2_START wrong code E2_END .
+__label__false, Not sure what brand of model it came from but the E1_START wings E1_END are from a E2_START trashed plane E2_END my buddy had .
+__label__false, After successful completion of the comprehensives , the E1_START candidate E1_END writes a E2_START dissertation proposal E2_END .
+__label__false, The E1_START construction E1_END gives a E2_START refinement E2_END of Nori 's argument in the case of a self-product of a curve .
+__label__false, It often becomes necessary to delete E1_START objects E1_END from the E2_START chart E2_END during the course of monitoring system performance .
+__label__false, First , the E1_START sound E1_END radiated from a E2_START surface E2_END simulating a two-dimensional monopole is calculated using an unstructured mesh .
+__label__false, The date for final payment is shown on the E1_START confirmation E1_END E2_START invoice E2_END .
+__label__true, The E1_START taste E1_END is from the E2_START ginseng E2_END , not alcohol .
+__label__false, Find the E1_START infinitive E1_END from the E2_START participle E2_END .
+__label__true, Most E1_START cane E1_END E2_START sugar E2_END comes from countries with warm climates , such as Brazil , Pakistan , India , China and Australia .
+__label__true, The following are E1_START verbatim excerpts E1_END from a E2_START lengthy article E2_END .
+__label__false, The E1_START systolic murmur E1_END radiated to E2_START both carotid arteries E2_END .
+__label__true, From the diagrams of DaVinci to Hooke 's microscopic bestiary , the beaks of Darwin 's finches , Rosalind Franklin 's x-rays or the E1_START latest photographic marvels E1_END retrieved from the E2_START remotest galactic outback E2_END , visualization of research has a long and literally illustrious history .
+__label__false, A pop-up roll cage and active headrests aim to protect occupants during a rollover , and the E1_START floorboard E1_END is made from E2_START bamboo E2_END and aluminum .
+__label__false, These early Bristol recordings laid the groundwork for much of the E1_START country E1_END E2_START music E2_END that followed .
+__label__false, The curricular requirements for an engineering degree can be satisfied in four years of study by completing 14 to 18 credits of work each semester , but many E1_START students E1_END deviate from the E2_START ideal curricula E2_END presented in a later section of this bulletin .
+__label__true, He was a E1_START young refugee E1_END on the run from a E2_START nation E2_END at war .
+__label__false, They are taking the E1_START brains E1_END from E2_START babies E2_END .
+__label__false, Eventually the E1_START company E1_END manufactured the E2_START machines E2_END .
+__label__true, By the early '90s , Indian entrepreneurs bought a majority of the properties and flourished with the new E1_START immigrants E1_END from the E2_START subcontinent E2_END .
+__label__false, The mesopause separates the E1_START mesosphere E1_END from the E2_START thermosphere E2_END .
+__label__false, Beauty had scarcely uttered these words when the E1_START castle E1_END radiated with E2_START light E2_END .
+__label__false, Effective E1_START canola E1_END E2_START production E2_END requires hands-on involvement with the crop .
+__label__true, Download all the E1_START images E1_END from a E2_START website E2_END with a single click !
+__label__true, The E1_START bytecodes E1_END compiled from a E2_START nonoptimized control structure E2_END are illustrated by the following hypothetical method in Collection .
+__label__false, Recruiting E1_START talented computer scientists E1_END from E2_START underrepresented communities E2_END is important to current and future workforce needs of the Computation Directorate as well as the Laboratory as a whole .
+__label__false, Select the E1_START appropriate government agency E1_END from the E2_START pull-down list E2_END , add comments in the comment box , and select the Submit button .
+__label__false, The E1_START email E1_END is received from a E2_START wealthy , dying person E2_END wanting to get their money out of the country .
+__label__false, The E1_START backup vocals E1_END are from a E2_START rather talented female E2_END , Stephanie Eitel .
+__label__false, With five of the six classes being a single credit hour and the sixth being three credit hours of capstone design , sophomores , juniors , and seniors work directly with medical doctors , nurses , graduate students , Ph.D. 's , and E1_START engineers E1_END from the E2_START medical industry E2_END .
+__label__false, Learning to change your vehicle 's E1_START engine E1_END E2_START oil E2_END can save you time and money .
+__label__false, The E1_START light E1_END in the background is from the E2_START sunrise E2_END .
+__label__true, The E1_START basement carpeting E1_END is made from E2_START recycled plastic pop bottles E2_END , and the underpad was once automobile tires .
+__label__true, In Europe the E1_START fuel E1_END is distilled from E2_START canola oil E2_END .
+__label__false, Include a note in the 'Comments ' field of the purchase requisition stating that the E1_START services E1_END are being obtained from a E2_START nonresident alien E2_END .
+__label__false, They understand the E1_START stakes E1_END from a E2_START personal perspective E2_END , as well , since the extremists have tried to assassinate them .
+__label__false, When deliberations began , the E1_START crowd E1_END of people jamming the hallways radiated E2_START optimism E2_END .
+__label__false, We 're always looking for E1_START feedback E1_END from E2_START readers E2_END and articles to highlight .
+__label__true, Is it really possible to build the E1_START tree E1_END from a E2_START database E2_END ?
+__label__true, Fruit juice has all the E1_START fruit E1_END E2_START sugar E2_END and none of the fruit fiber , and only some of the fruit nutrients .
+__label__false, Does the E1_START product E1_END emit E2_START radiation E2_END ?
+__label__false, A couple of spoonsful would have been mixed with water to create a sweet and tart drink , the fruit providing the flavor and color , the E1_START sugar E1_END providing the E2_START sweetness E2_END , and the vinegar providing the tartness .
+__label__false, Now if the Bagger can just get some E1_START popcorn E1_END from E2_START room service E2_END , he 'll be all set .
+__label__true, Orpheus falls in love with the E1_START country E1_END E2_START girl E2_END for no apparent reason save her name and beauty .
+__label__false, If the E1_START notice E1_END is sent by E2_START fax E2_END , the notice is not deemed received until 3 days after faxing it .
+__label__false, This is the E1_START winning sand castle E1_END from the Castlemania E2_START contest E2_END .
+__label__false, The customers are happy and the E1_START marketer E1_END generates E2_START more income E2_END from the sales of his vehicles - everyone wins .
+__label__false, To prevent E1_START students E1_END from E2_START informing E2_END their peers what questions are in the quiz , the questions are randomly selected from a large , pre-prepared question bank .
+__label__true, The E1_START colours E1_END were similarly derived from the E2_START style-sheet E2_END .
+__label__false, The E1_START outer shell E1_END is made from E2_START anodized aluminum E2_END .
+__label__true, E1_START Sunflower E1_END E2_START oil E2_END is obtained by extracting oil from sunflower seeds .
+__label__true, The word E1_START naughtiness E1_END is derived from a E2_START word E2_END meaning worthless .
+__label__false, So you are not only sharing the speaker information , but you are also sharing the E1_START audio E1_END from the E2_START event E2_END quickly and easily .
+__label__true, Lowering your E1_START blood E1_END E2_START sugar E2_END is the key to managing diabetes .
+__label__false, The 3 km long E1_START beach E1_END extends from the E2_START mouth E2_END of the Oro River in the west , to the cliffs of Point Caramonal to the southeast .
+__label__true, On the other hand , E1_START gin E1_END is distilled from a E2_START neutral grain spirit E2_END , which is then infused with juniper and a host of other botanicals .
+__label__false, What did the residents and E1_START scientists E1_END learn from the Krakatau E2_START explosion E2_END ?
+__label__false, Where credit is granted , the E1_START supplier E1_END 's E2_START invoice E2_END will be payable within 30 days .
+__label__false, It seems quite clear , therefore , that the E1_START claimant E1_END 's E2_START allegation E2_END of a lung condition is not substantiated by any of the reporting physicians of record .
+__label__false, Retailers should report the income from a coupon 's face value and its related handling fee at the time the E1_START coupon E1_END is received from the E2_START customer E2_END .
+__label__true, Different from the curry source , E1_START chicken bouillon E1_END is mainly distilled from E2_START chicken E2_END .
+__label__false, When the E1_START invoice E1_END is received from a E2_START vendor E2_END , you should verify that you have only been charged for goods or services that were ordered and received .
+__label__true, The E1_START clear spirit E1_END is distilled from E2_START fresh grain E2_END .
+__label__false, I 'm assuming that the E1_START criticism E1_END is from the E2_START publisher side E2_END .
+__label__false, The flavour and colour depend on the plants from which the E1_START bees E1_END manufactured the E2_START nectar E2_END .
+__label__true, This is assuming that the E1_START dividend E1_END is received from a E2_START treaty country E2_END .
+__label__true, I think people really do themselves a disservice when they get their E1_START news E1_END from only one E2_START source E2_END .
+__label__false, The E1_START transition E1_END from E2_START dictatorship E2_END to democracy will take time , but it is worth every effort .
+__label__true, The E1_START signal E1_END is received from a E2_START known direction E2_END .
+__label__false, We want ideas to save our planet , to save the E1_START planet E1_END from the E2_START imperialist threat E2_END .
+__label__false, The commission merely implements the contracts , shielding the E1_START major party candidates E1_END from E2_START public criticism E2_END .
+__label__false, The E1_START above advertisement E1_END is from the E2_START server provider E2_END not from me .
+__label__true, This E1_START view E1_END from the inside is from the E2_START bridge E2_END that spans Atherton Street .
+__label__false, The E1_START discoverer E1_END writes a E2_START short citation E2_END explaining the reasons for assigning the name .
+__label__true, The E1_START quotation E1_END is from the E2_START preface E2_END to the fourth edition .
+__label__true, The E1_START pollen E1_END is derived from a podocarp/broadleaved E2_START forest E2_END , which probably . covered both the alluvial flats and sides of the valley .
+__label__false, He went on to examine the E1_START theory E1_END from a E2_START risk assessment perspective E2_END .
+__label__true, E1_START Chicken E1_END E2_START bouillon E2_END can be obtained in three different forms , either liquid , powder or in cubes .
+__label__true, The Corel data set is relatively simple because the annotations are E1_START nouns E1_END selected from a E2_START relatively small vocabulary E2_END .
+__label__true, E1_START Almond E1_END E2_START butter E2_END is available in many natural and whole food stores .
+__label__true, E1_START Avocado E1_END E2_START butter E2_END is a very rich , moisturizing treatment for the hair and skin , and it has some natural sunscreen properties .
+__label__true, She opened a fridge in the side of the door and got out a E1_START blueberry E1_END E2_START vodka E2_END .

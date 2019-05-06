@@ -1,0 +1,140 @@
+__label__true, Put E1_START tea E1_END in a E2_START heat-resistant jug E2_END and add the boiling water .
+__label__true, The E1_START kitchen E1_END holds patient E2_START drinks E2_END and snacks .
+__label__false, Where are the E1_START batteries E1_END kept in a E2_START phone E2_END ?
+__label__false, This answer leads me to think that the E1_START robber E1_END was inside the E2_START office E2_END when the manager decided to take action and escape out the side door .
+__label__false, Often the E1_START patient E1_END is kept in the E2_START hospital E2_END one night for observation , but in other cases the patient can be discharged home the same day as surgery .
+__label__false, E1_START Batteries E1_END stored in E2_START contact E2_END with one another can generate heat and hydrogen gas .
+__label__true, Among the contents of the E1_START vessel E1_END were a set of carpenter 's E2_START tools E2_END , several large storage jars , ceramic utensils , ropes and remnants of food , as well as a heavy load of ballast stones .
+__label__false, You can put E1_START wine E1_END in the E2_START hookah water E2_END , and otherwise adulterate the tobacco and so on to change the flavor .
+__label__false, And we do recommend excersise , as the E1_START kitchen E1_END holds E2_START culinary temptations E2_END in store for you that are bound to prolong your evening and lift your spirit .
+__label__false, The E1_START catalogue E1_END contained E2_START books E2_END published in 1998 warning of the upcoming millennium bug and other similarly germane works , but neither of Brock 's bestsellers .
+__label__false, Vinegar 's E1_START usefulness E1_END does n't stop inside the E2_START house E2_END .
+__label__false, You 'll rarely see a E1_START clock E1_END inside a E2_START casino E2_END , the same goes for windows .
+__label__false, The original Waldorf E1_START salad E1_END , created at New York 's Waldorf Astoria Hotel in the 1890s , contained only E2_START apples E2_END , mayonnaise , and celery .
+__label__true, The E1_START library E1_END contained E2_START books E2_END of guidance on the processes .
+__label__false, The story not only put E1_START wine E1_END in a E2_START positive health light E2_END , but pointed out that it was superior to other foods in that particular regard .
+__label__true, Our water froze and E1_START batteries E1_END kept in E2_START pockets E2_END got cold .
+__label__true, How do I recognize a E1_START room E1_END that contains E2_START radioactive materials E2_END ?
+__label__true, E1_START Equipment E1_END for making repairs en route was carried in a E2_START jockey box E2_END attached to one end or side of the wagon .
+__label__false, The E1_START video E1_END contains a E2_START clip E2_END from the movie .
+__label__false, The contents of the E1_START cyst E1_END included a foul smelling E2_START gas E2_END and white-green pus .
+__label__false, The contents of the E1_START memorandum E1_END included E2_START stigmatizing statements E2_END about Cannon .
+__label__false, The E1_START display table E1_END contained E2_START books E2_END and posters for visitors to browse .
+__label__true, The E1_START bomb E1_END was contained in a E2_START suitcase E2_END and was planted by two men .
+__label__false, We kept the E1_START antenna E1_END inside the E2_START car E2_END , which limited range due to the car 's attenuation .
+__label__false, Any E1_START marinade E1_END that contains E2_START acid E2_END , alcohol or salt should not be used for very long , because it will chemically 'cook ' or denature the food in it .
+__label__true, This experiment is performed with an aqueous solution of a strong E1_START acid E1_END inside a E2_START flask E2_END .
+__label__true, Arthur and Franz are thieves , or they 're trying to be thieves , and somehow learn that Odile lives in a E1_START house E1_END that contains a large sum of E2_START money E2_END .
+__label__true, A tokamak is a toroidal ( doughnut shape ) E1_START magnetic bottle E1_END that contains the E2_START fusion plasma E2_END .
+__label__true, A letterbox is a plastic , screw-top E1_START bottle E1_END that contains a small E2_START notebook E2_END and a unique rubber stamp .
+__label__false, That 's because nostalgia serves a useful defensive and reparative function ; it took the E1_START sting E1_END from a E2_START painful episode E2_END in his life by shading the script .
+__label__false, It has long been thought that the E1_START crypt E1_END contained the E2_START tomb E2_END of St Paul but the altar had hidden it .
+__label__true, Flash Drives were designed to be portable - worn on a necklace or key chain - while E1_START diskettes E1_END should be carried in a E2_START case E2_END for protection .
+__label__false, The E1_START clutter E1_END in my E2_START house E2_END was destroying me .
+__label__false, Because of the Depression the original design was cut back significantly , but the E1_START building E1_END contained a number of unique E2_START architectural features E2_END .
+__label__true, While Calvin is able to get the diamond , he 's nearly caught by the police while making his getaway , and stashes the E1_START jewel E1_END in a E2_START bag E2_END carried by a passerby .
+__label__true, The E1_START kitchen E1_END holds a E2_START cooker E2_END , fridge , microwave oven , in short ; everything you need if you want to prepare a light meal .
+__label__false, Let us sprinkle flowers around and put E1_START wine E1_END in the E2_START cup E2_END .
+__label__false, The E1_START bulbs E1_END in my E2_START house E2_END use 190 watts .
+__label__true, Tim Boyle ( 1846 ) checks a E1_START flask E1_END that contains the dried cathode precursor E2_START powder E2_END .
+__label__true, Your E1_START stomach E1_END is supposed to contain E2_START acid E2_END .
+__label__true, Tapestries of rocky coastlines share wall space with a E1_START clock E1_END inside a ship 's E2_START wheel E2_END .
+__label__false, The E1_START turn signal indicator E1_END inside the E2_START car E2_END was blinking erratically for the last month and someone recently explained that it meant the bulb had gone somewhere on the left .
+__label__false, In the case of aerodynamic lift , the E1_START aircraft E1_END is kept in the E2_START air E2_END by wings or rotors ( see aerodynamics ) .
+__label__false, Suddenly , a man approached me from nowhere and stuck a bag of E1_START candy E1_END in my E2_START face E2_END .
+__label__false, I am installing lights under the E1_START cabinets E1_END in my E2_START kitchen E2_END .
+__label__true, When he was back he noticed that he had locked the E1_START keys E1_END inside the E2_START car E2_END .
+__label__false, This represents a E1_START house E1_END that contains a E2_START light bulb E2_END and an airconditioner .
+__label__true, Because the E1_START air E1_END in the E2_START jar E2_END can not circulate to the rest of the room , this air stays in the sunlight and gets warmer and warmer .
+__label__false, If you mount the photo on a E1_START material E1_END that contains E2_START acid E2_END the paper will absorb the acid which in turn will attack the photo itself .
+__label__false, There are four E1_START caverns E1_END located inside the E2_START cave E2_END with the tunnel heading west being the largest .
+__label__true, Harry Stanley , 46 , from Hackney , East London , was shot and killed by Metropolitan Police officers who apparently had mistaken a E1_START chair-leg E1_END being carried in a E2_START plastic bag E2_END for a firearm .
+__label__true, The E1_START building E1_END contained a significant amount of E2_START school furniture E2_END and equipment .
+__label__true, I put E1_START candy E1_END in my E2_START jar E2_END .
+__label__false, A pool with a sand E1_START beach E1_END is located inside the E2_START cave E2_END .
+__label__false, You own a E1_START house E1_END that contains a E2_START granny flat E2_END .
+__label__true, The E1_START box E1_END contained the jumbled E2_START skeletal remains E2_END of what appeared to be sheep , as well as a variety of other mammals .
+__label__false, The discharge E1_START valve E1_END is kept in the E2_START closed position E2_END at all times unless the dike is deliberately being drained .
+__label__true, He sued Georgia Tech and the Board of Regents , claiming his professor and the University 's administration should have provided him with laboratory safety training and should have warned him of the dangers of mixing acetone , ethanol , and E1_START nitric acid E1_END inside a E2_START metal container E2_END .
+__label__false, The E1_START heater E1_END inside the E2_START car E2_END consumed gasoline .
+__label__true, The contents of the E1_START boxes E1_END included E2_START phone cards E2_END , disposable cameras and razors , travel-size toiletries , snack food , and lots of candy .
+__label__true, The E1_START food E1_END is kept in the E2_START kitchen E2_END and guests should help themselves as it is self service and not served by the hostel .
+__label__true, He used a stable form of E1_START liquid nitroglycerin E1_END carried in a E2_START bottle E2_END labeled as contact lens solution , using cotton as a stabilizer .
+__label__true, The E1_START kitchen E1_END contained primarily E2_START drug paraphernalia E2_END .
+__label__false, The E1_START kitchen E1_END contained one other interesting item , a E2_START trap door E2_END in the ceiling .
+__label__false, The main cell types are fibroblasts , macrophages and adipocytes ( the E1_START hypodermis E1_END contains 50 % of E2_START body fat E2_END ) .
+__label__false, Do not use perchloric or E1_START hydrofluoric acid E1_END inside a E2_START fume hood E2_END unless the hood was specifically designed for its use .
+__label__true, Contents of the E1_START scrapbooks E1_END included E2_START pictures E2_END cut from magazines and newspapers , stories , poems and anecdotes as well as photographs .
+__label__true, Put the E1_START flour E1_END in a preheated E2_START oven E2_END until warm to the touch ( approximately 2 minutes ) .
+__label__false, Retailers have done their bit to put E1_START wine E1_END in the E2_START hands E2_END of the masses , to make it more accessible to the wider UK public , and there is little more that they can do in this regard .
+__label__false, However , the fact that the guinea pigs appeared to function in a normal physiological manner indicates that the E1_START diets E1_END contained the necessary E2_START energy density E2_END .
+__label__true, The total contents of the E1_START purse E1_END included a E2_START cell phone E2_END and wallet valued at $ 120 .
+__label__false, Straight ahead you enter a nice sized E1_START living room E1_END that contains the front E2_START door E2_END .
+__label__true, I put the remaining E1_START candy E1_END in my E2_START mouth E2_END and walked back the way I came , then past the village and into town .
+__label__false, I am still amazed just how deep and loud it can get with certain soundtracks and songs , literally making things bounce off the E1_START walls E1_END in my E2_START house E2_END .
+__label__false, Interestingly , the E1_START sink E1_END was inside the E2_START room E2_END .
+__label__false, The lower portion of the E1_START building E1_END contained hundreds of E2_START storage rooms E2_END .
+__label__false, The E1_START boil E1_END in a E2_START bag E2_END omelets work great too .
+__label__true, Keep E1_START money E1_END in a E2_START box E2_END and keep your eye on it at all times .
+__label__false, In my tests with a final engineering prototype , Scooba generally did a fine job cleaning the E1_START linoleum E1_END in my E2_START kitchen E2_END after my 2-year-old daughter 's birthday party .
+__label__false, While that operation was a success , the contents of the E1_START satchel E1_END were a tiny E2_START loss E2_END for the traffickers .
+__label__true, Put the E1_START flour E1_END in a E2_START mixing bowl E2_END , and mix in the water a little at a time until you 've got a dough .
+__label__true, The other E1_START shelves E1_END contained E2_START books E2_END with sinister-sounding titles , such as Crime and Punishment , Days of Wrath , Death Walks Among You and a few others .
+__label__false, The viewer looks through an E1_START eyehole E1_END in the E2_START metal box E2_END into the abyss , an infinite regression/progression of mirrors reflecting themselves .
+__label__true, Put the E1_START peels E1_END in a different E2_START sack E2_END .
+__label__false, Woz has outfitted the house with an elaborate E1_START swimming pool E1_END that extends inside the E2_START house E2_END by way of an underwater channel .
+__label__true, Remember to reverse the position of E1_START batteries E1_END stored in E2_START flashlights E2_END to prevent them from accidentally switching on and losing power .
+__label__true, The E1_START box E1_END holds three stiff E2_START cardboard tubes E2_END , each wrapped in now decaying cellophane .
+__label__true, Eight rooms surround a central square E1_START room E1_END that contains the mortal E2_START remains E2_END of Bibi Pari .
+__label__false, E1_START Batteries E1_END stored in a E2_START discharged state E2_END are susceptible to freezing , sulfation and an increased rate of discharge .
+__label__false, The E1_START detainee E1_END is kept in the E2_START cell E2_END 23 Â½ hours a day .
+__label__false, You have n't experienced true tartness until you 've tasted the E1_START jelly E1_END inside a E2_START passionfruit E2_END .
+__label__false, A E1_START dining room E1_END that contains direct E2_START access E2_END from the kitchen is the most practical , unless the room will exist for fluff purposes only .
+__label__false, How can I get rid of the E1_START ants E1_END in my E2_START kitchen E2_END without using dangerous pesticides ?
+__label__true, Among the additional contents of the E1_START box E1_END were a E2_START controller E2_END , an audio/video connector , a plug , and quite a few manuals and booklets .
+__label__false, But for the family that shares the cooking and clean up duties , the E1_START kitchen E1_END holds a special E2_START nuturing role E2_END beyond supplying nutrition for the physical body .
+__label__false, The E1_START morning session E1_END contains a E2_START tutorial E2_END that aims to address the basic issues necessary for a better understanding of this complicated topic .
+__label__true, These are not simply memorable words written on a piece of E1_START paper E1_END kept in a E2_START museum E2_END .
+__label__true, Rather , the E1_START entrails E1_END contained mostly E2_START apples E2_END and corn .
+__label__false, About 2000 feet of E1_START passageways E1_END have been located inside the E2_START cave E2_END , and about half of that has been mapped .
+__label__true, The E1_START fruit basket E1_END contained E2_START apples E2_END , oranges and bananas .
+__label__false, The contents of the E1_START workshop E1_END included a E2_START discussion E2_END on various documents in respect of exports , imports and documents relating to letters of credit .
+__label__false, In each E1_START house E1_END lives a E2_START person E2_END with a different nationality .
+__label__true, Such airships are essentially motorized free balloons and the E1_START engines E1_END are carried in a E2_START car E2_END attached to the lower side or bottom of the bag .
+__label__false, Once the E1_START photon E1_END was inside the E2_START cloud E2_END , the control beam was switched off , allowing the photon to come to a halt inside the dense ensemble of atoms .
+__label__true, The contents of the E1_START bag E1_END included numerous E2_START flyers E2_END from other conference sponsors and exhibitors and some useful stationery supplies .
+__label__false, Because the E1_START trench E1_END was inside the E2_START fenced back yard E2_END , he saw no reason to worry about leaving it uncovered .
+__label__true, An E1_START office E1_END that contains E2_START plants E2_END suggests you 're trying to create an agreeable environment for yourself and others .
+__label__true, The E1_START bowl E1_END contained E2_START apples E2_END , pears , and oranges .
+__label__false, E1_START Picric acid E1_END is kept in an E2_START aqueous solution E2_END , which makes it suitable and safe to handle .
+__label__false, Close all E1_START doors E1_END inside the E2_START house E2_END to slow down fire spread from room to room .
+__label__false, We actually put E1_START tea E1_END in the E2_START food E2_END whenever possible .
+__label__true, Now , I have a plastic E1_START bottle E1_END that contains E2_START alcohol E2_END in which I put my artificial eyelashes at night when I take them off , to clean them and keep them safe .
+__label__true, After the cashier put the E1_START cash E1_END in a E2_START bag E2_END , the robber saw a bottle of scotch that he wanted behind the counter on the shelf .
+__label__true, The conventional way to grow bacteria is to inoculate a E1_START flask E1_END that contains a E2_START broth E2_END of nutrients .
+__label__true, Suppose you were given a E1_START bottle E1_END that contains 400 grams of a 3.0 % E2_START bleach solution E2_END .
+__label__false, The contents of the E1_START questionnaire E1_END included the E2_START gender E2_END and age of the patient , his/her knowledge of the procedure undertaken and the person obtaining consent .
+__label__false, Like many recipes for stuffing , the original E1_START recipe E1_END contained E2_START apples E2_END , but as apples are a higher carb fruit , I have substituted cranberries which have the dual effect of making the stuffing lower carb than the regular recipe and also adding a little extra seasonal color and flavor .
+__label__true, I explained that I was a teacher and that the E1_START boxes E1_END contained E2_START books E2_END I was bringing for the students to improve their English .
+__label__true, The E1_START information E1_END on the recorded talks is kept in the E2_START database E2_END .
+__label__true, A new E1_START composter E1_END is now available from East Sussex County Council which can be kept in the E2_START kitchen E2_END and will take all organic waste .
+__label__false, To repair , use duct tape or caulk to seal E1_START gaps E1_END in the E2_START metal box E2_END and between joints and seams in the duct .
+__label__false, The E1_START kitchen E1_END contains basic items such as E2_START salt E2_END , pepper and olive oil .
+__label__true, In particular , we work on devices that take the E1_START signal E1_END that is carried in a E2_START beam E2_END of light going through an optical fiber and transfer that signal to another beam of light going through the same fiber .
+__label__false, The E1_START building E1_END contained a large E2_START open central space E2_END with tables and chairs as well as a nursery and two tearooms .
+__label__true, The E1_START bag E1_END contained E2_START books E2_END , a cell phone and notepads , but no explosives .
+__label__true, The E1_START kitchen E1_END contained a large E2_START stove E2_END , a sink , a small table with chairs , and an old sofa that had seen many children and grandchildren tear at its skin .
+__label__false, I find it hard to bend and reach and I can not use the E1_START cupboards E1_END in my E2_START kitchen E2_END .
+__label__false, So I was looking at the E1_START ceiling E1_END in my E2_START kitchen E2_END yelling at God .
+__label__true, I 'm looking at one right now and he appears to be very content , despite the fact that he 's trying to sleep in a E1_START kitchen E1_END that contains a noisy E2_START boiler E2_END .
+__label__true, There was a persistent rumor that the contents of the E1_START cornerstone E1_END included a E2_START liquor bottle E2_END that would have had 49 years to age .
+__label__false, Conference center has at least one dedicated main conference E1_START room E1_END that contains a minimum of 1,000 E2_START square feet E2_END and can accommodate flexible seating arrangements .
+__label__true, The E1_START acid E1_END is kept in a level-controlled E2_START tank E2_END ( with a controller and an alarm . in the event of low acid level ) .
+__label__true, To test this , we placed a kitchen E1_START match E1_END in the E2_START jar E2_END instead of the candle , lit the match , screwed on the lid and dropped the jar .
+__label__false, The E1_START building E1_END contained E2_START laboratory facilities E2_END for conducting spectrochemical , chemical , and mass spectrometric analyses .
+__label__true, On the other hand , the E1_START information E1_END being carried in a high frequency quasi-sinusoidal E2_START wave E2_END invites comparisons with the auditory system of vertebrates .
+__label__true, This is why , not only the contents of the E1_START box E1_END were a E2_START present E2_END , but the box itself was as a present .
+__label__false, Until 1729 the E1_START building E1_END contained only the E2_START grammar school E2_END .
+__label__false, Maybe some E1_START relationships E1_END are best kept in a E2_START box E2_END .
+__label__false, Some inactivated influenza vaccine contains thimerosal , a E1_START preservative E1_END that contains E2_START mercury E2_END .
+__label__true, The E1_START kitchen E1_END contains various commercial equipment such as E2_START stoves E2_END , griddles , deep fryer , and an oven .

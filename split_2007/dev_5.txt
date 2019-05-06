@@ -1,0 +1,40 @@
+__label__true, Contact information and financial E1_START information E1_END are kept private and is used for no other E2_START purpose E2_END than what is indicated above .
+__label__true, It is a E1_START device E1_END for aligning a E2_START pinhole E2_END with a microscope objective .
+__label__false, The family as a E1_START model E1_END for the E2_START organization E2_END of the state is a theory in political philosophy .
+__label__false, The provisions of the E1_START proposal E1_END for a E2_START directive E2_END also run counter to the case .
+__label__false, The E1_START appointment E1_END was for more than one E2_START year E2_END , so the recommendation discussed evidence to date of the candidate 's teaching .
+__label__false, A Justice Department lawyer may have been laying the E1_START groundwork E1_END for the Iraq E2_START invasion E2_END long before it was discussed publicly by the White House .
+__label__false, LANDIS & STAEFA , INC. is awarded a E1_START contract E1_END for supplying the E2_START city E2_END of Seattle .
+__label__false, The governor general of the Turkish province of Van , Mehmet Niyazi Tanilir , here Saturday said that the joint border of Iran and Turkey was a E1_START model E1_END for the E2_START world E2_END .
+__label__false, The E1_START programming E1_END E2_START staff E2_END is responsible for developing agency wide policies .
+__label__true, An escalation E1_START factor E1_END is used for E2_START salaries E2_END , stipends , and other direct costs .
+__label__true, A focus on convenience and knowledgeable service has enabled the 4,600-store chain to stake out a modest but healthy share of the huge hardware market , providing the E1_START impetus E1_END for the biggest new-store E2_START expansion E2_END in its history .
+__label__false, Our E1_START mission E1_END in Iraq was to win the E2_START war E2_END .
+__label__true, Binary insertion sort E1_START algorithm E1_END is used for small E2_START lists E2_END .
+__label__true, This is a gravity assist or a E1_START swingby E1_END for a E2_START spacecraft E2_END .
+__label__false, Sheehan also announced at the signing that she 's a E1_START finalist E1_END for the E2_START prize E2_END .
+__label__true, In 2006 , the World Wide Web became a E1_START tool E1_END for bringing together the small E2_START contributions E2_END of millions of people and making them matter .
+__label__false, These are the E1_START requirements E1_END for a full E2_START refund E2_END of the security deposit .
+__label__false, Nothing wrong with this if the E1_START goal E1_END was for students to acquire E2_START knowledge E2_END .
+__label__true, The E1_START formula E1_END for calculating the top rated 250 E2_START titles E2_END gives a true Bayesian estimate .
+__label__false, Terrorists ' E1_START aim E1_END is to influence presidential E2_START vote E2_END .
+__label__false, The entry into force of Protocol 14 to the Convention is a E1_START prerequisite E1_END for the E2_START reforms E2_END proposed by the Group of Wise Persons .
+__label__true, This E1_START parser E1_END is used for parsing E2_START lists E2_END of comma or space separated SVG lengths .
+__label__true, Many tons of E1_START paper E1_END are used for printing E2_START tickets E2_END .
+__label__false, U.S. policy decisions over the past several years , have helped to lay the E1_START groundwork E1_END for the latest round of E2_START talks E2_END , she said .
+__label__true, It is a E1_START tool E1_END for visualizing the E2_START topology E2_END of three-dimensional vector fields .
+__label__true, This public key E1_START algorithm E1_END is used for encrypting E2_START emails E2_END .
+__label__true, The first three arguments will set the environment variable object_is_image if the E1_START request E1_END was for an image E2_START file E2_END .
+__label__true, The E1_START election E1_END for the two Legislative Yuan E2_START posts E2_END is scheduled for February 1 .
+__label__true, The largest E1_START cutback E1_END was for E2_START projects E2_END in the Canadian region .
+__label__true, This E1_START information E1_END is used for tracking down E2_START errors E2_END and also to identify people who misuse the commentary area .
+__label__true, I 've heard the E1_START stock E1_END E2_START market E2_END is making a recovery but it 's a bit early to invest my money .
+__label__false, The Office serves as the E1_START secretariat E1_END for the General Assembly 's only E2_START committee E2_END dealing exclusively with international cooperation in the peaceful uses of space .
+__label__false, We want to assist the Iraqi government in establishing the E1_START foundations E1_END for a sound E2_START economy E2_END with the capacity to deliver essential services .
+__label__true, The judge held that the circuit court did not err , in light of the fact that the E1_START conviction E1_END was for felony E2_START murder E2_END , and given the weight of eyewitness testimony .
+__label__true, The Federation is the E1_START voice E1_END for the E2_START humanities E2_END and social science researchers .
+__label__false, The committee was instructed to come up with a document that can actually serve as a E1_START basis E1_END for a E2_START treaty E2_END .
+__label__true, This angle E1_START convention E1_END is used for self-rotation E2_START functions E2_END .
+__label__true, The E1_START award E1_END was for his outstanding E2_START contribution E2_END to enterprise .
+__label__true, The E1_START funeral E1_END was for Hakim Taniwal , a tribal elder and provincial E2_START governor E2_END who was killed in a suicide attack outside his office on Sunday .
+__label__false, The E1_START mission E1_END of the SETI Institute is to explore , understand and explain the origin , nature and prevalence of E2_START life E2_END in the universe .

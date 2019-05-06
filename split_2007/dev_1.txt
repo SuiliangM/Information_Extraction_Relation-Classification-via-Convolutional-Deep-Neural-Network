@@ -1,0 +1,40 @@
+__label__true, E1_START Inhibition E1_END through E2_START synaptic depression E2_END is unlike the previous forms of inhibition in that it turns on more slowly and thus acts as delayed negative feedback .
+__label__false, A city nightclub has had an ambitious expansion plan blocked over concerns about E1_START unruly behaviour E1_END from E2_START drunken revellers E2_END .
+__label__true, However , these animals are found in the intertidal zone , inside tide pools , where salinity can increase due to E1_START evaporation E1_END from E2_START exposure E2_END to intense sunshine , or decrease from heavy rainfall or fresh water runoffs .
+__label__true, There were the years of constant fatigue and shortness of breath , the heart attack at age 11 , the E1_START collapse E1_END from E2_START exhaustion E2_END on her high school graduation night .
+__label__false, E1_START Depression E1_END after E2_START heart attack E2_END increases future risk .
+__label__false, Examples include the E1_START exclusion E1_END of certain benefits from E2_START funding standards E2_END and the exclusion of entire plans from certain funding requirements .
+__label__true, This program will be an effective step to mitigate E1_START damage E1_END from E2_START hurricanes E2_END - but let us not forget this is a retroactive measure .
+__label__false, I know another E1_START drinking E1_END E2_START accident E2_END happened in the Gallup area the other day , which is plagued by drinking and driving accidents .
+__label__true, E1_START Scientific progress E1_END comes from E2_START breakthroughs E2_END and breakthroughs by their very nature are unpredictable and surprising in their impact .
+__label__true, Declines of great gray owls in California may be due to E1_START habitat degradation E1_END from E2_START logging E2_END , grazing , and development .
+__label__false, That year , summer students at the VLA made the first discovery of E1_START radio emission E1_END from a brown E2_START dwarf E2_END .
+__label__true, Parents also experience E1_START anxiety E1_END from E2_START fear E2_END of the suffering of their child and worry about an uncertain outcome .
+__label__false, Kids love watching the stages of E1_START growth E1_END from E2_START caterpillar E2_END to cocoon to butterfly in this easy reliable kit .
+__label__false, Grubs tend to cause significant E1_START damage E1_END from E2_START autumn E2_END to spring by which time the larvae are becoming fully grown .
+__label__false, E1_START Cooperation E1_END through E2_START physical activity E2_END promotes important life skills .
+__label__true, Villagers live in constant E1_START terror E1_END of E2_START indiscriminate gunfire E2_END which fills the nights throughout Chechnya .
+__label__true, From our point of view , the E1_START moral outrage E1_END over Manet 's E2_START painting E2_END seems hypocritical , if not utterly inexplicable .
+__label__true, This lamp can cause serious skin burn and E1_START eye inflammation E1_END from E2_START shortwave ultraviolet radiation E2_END if outer envelope of the lamp is broken or punctured .
+__label__false, St John 's wort was at least as effective as paroxetine in reducing severity of E1_START depression E1_END after six E2_START weeks E2_END .
+__label__true, A tear or a crease changes the character of the surface more drastically than a mere E1_START deformation E1_END from E2_START roundness E2_END .
+__label__false, In this study we examined E1_START mood alterations E1_END through E2_START physical activity E2_END and other interventions .
+__label__false, Anemia , fatigue or E1_START drowsiness E1_END after E2_START meals E2_END may indicate that parasites are competing with the body for nutrients .
+__label__true, E1_START Waves E1_END from E2_START earthquakes E2_END travel at different velocities through different media .
+__label__false, E1_START Insulin resistance E1_END with E2_START sleep deprivation E2_END has been reported in a laboratory study of young , healthy volunteers .
+__label__true, E1_START Energy expenditure E1_END through E2_START physical activity E2_END is a key component in the prevention and treatment of overweight and obesity .
+__label__false, You can do a simple experiment which shows how important E1_START sun E1_END is for E2_START growth E2_END by planting a seed and putting it in a closet .
+__label__true, In addition , scientists may have a number of potentially useful targets to prevent and treat this lethal tumour because of the findings that NOXmediated E1_START overproduction E1_END of hydrogen peroxide is responsible for increased E2_START growth E2_END and decreased death of cancer cells .
+__label__false, The controlled environment E1_START facility E1_END is for E2_START growth E2_END of experimental material only .
+__label__true, This can be caused by hepatitis , alcoholic liver disease , E1_START liver inflammation E1_END from E2_START medications E2_END , fatty liver , liver tumors , or heart failure .
+__label__false, It has opened a sacred refuge for every lie and wrong ; no wildest form of which could fail to find some precedent within these Hebrew histories , which tell the story of a people 's upward E1_START growth E1_END from E2_START savagery E2_END .
+__label__true, Six glowing disks await E1_START activation E1_END by the E2_START footsteps E2_END of desert wanderers .
+__label__false, Tub drains clog up with hair and the E1_START grease E1_END from E2_START soap E2_END and must be cleaned out occasionally .
+__label__true, Thailand has been bracing itself for a E1_START downturn E1_END in the wake of the E2_START bombs E2_END , especially in the tourist sector .
+__label__false, To the shock of international observers , the Libyan court found the medics guilty last year and sentenced them to E1_START death E1_END by E2_START firing squad E2_END .
+__label__true, This prescription drug alleviates E1_START panic E1_END from E2_START claustrophobia E2_END and is also very handy for airplane rides and in case of broken-down subway cars or elevators .
+__label__false, Everybody in the region experienced the E1_START tremors E1_END after E2_START midnight E2_END .
+__label__false, Deposits grew 20 % with particularly good E1_START growth E1_END from E2_START corporates E2_END .
+__label__true, The studies revealed that E1_START skin irritation E1_END from E2_START soaps E2_END , inaccessibility to supplies or sinks , and insufficient time to wash hands between every patient care contact were the main reasons given by healthcare workers for lack of handwashing compliance .
+__label__true, E1_START Infection E1_END starts with E2_START manual execution E2_END of the binary .
+__label__true, Anthony finds inspiration in a beautiful , enigmatic older woman who teaches him to follow his heart and find E1_START happiness E1_END through E2_START swing dancing E2_END .

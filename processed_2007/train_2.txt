@@ -1,0 +1,140 @@
+__label__false, Immediately after the court is opened , the E1_START judge E1_END removes his E2_START wig E2_END and counsel are expected to follow suit .
+__label__true, Well , this E1_START footballer E1_END kicked the E2_START ball E2_END the hardest he could and hit me .
+__label__true, A E1_START man E1_END struck my video camera with a E2_START hammer E2_END while I accompanied a German film crew in Clearwater .
+__label__false, A E1_START moat E1_END keeps the E2_START enemy E2_END at bay .
+__label__true, The E1_START astronauts E1_END used the orbiter boom sensor E2_START system E2_END mounted on the end of the shuttle 's robotic arm .
+__label__false, In converting a tree into thick planks , the E1_START saw E1_END causes a E2_START waste E2_END of a very small fractional part .
+__label__false, The E1_START tailor E1_END left his E2_START scissors E2_END on a wall below his balcony .
+__label__false, A E1_START raindrop E1_END keeps the same E2_START shape E2_END to a reasonable approximation all the time it is falling .
+__label__true, On October 28 , 2003 , a E1_START worker E1_END was using a E2_START hammer E2_END to tap the arms of a truck 's cabstand into a vertical position when the cabstand 's arms collapsed in an unintended opposite direction causing the cab to slide off the stand onto the worker 's arm .
+__label__false, You should place the awl or E1_START screwdriver E1_END underneath the E2_START hinge E2_END , with the pointy end touching the end of the bolt or screw .
+__label__true, The E1_START diener E1_END takes a large E2_START scalpel E2_END and makes the incision in the trunk .
+__label__true, The E1_START judge E1_END hesitates , E2_START gavel E2_END poised , shooting them a warning look .
+__label__true, The test is made by inserting the end of a E1_START jimmy E1_END or other E2_START burglar E2_END 's tool and endeavouring to produce impressions similar to those which have been found on doors or windows .
+__label__false, A second aspect of the invention provides apparatuses for indicating the position of an E1_START oar E1_END during E2_START rowing E2_END .
+__label__true, They will cast you out of the E1_START net E1_END like any E2_START fisherman E2_END looking for a certain fish .
+__label__false, Most people will use a E1_START paddle E1_END to propel their E2_START canoe E2_END .
+__label__false, Our powered E1_START scissors E1_END effortlessly cut E2_START fabrics E2_END , gift wrap , vinyl and much more !
+__label__true, A star E1_START footballer E1_END can barely touch the E2_START ball E2_END for 90 minutes , then suddenly produce five seconds of genius that decides the game .
+__label__false, The small knife E1_START assemblies E1_END are widely used for cutting various E2_START strips E2_END of flexible materials .
+__label__true, Francisco Garcia Lorca sees the E1_START horse E1_END carrying the E2_START rider E2_END , against his will , to his death .
+__label__true, The E1_START patient E1_END had crushed a pencil with this E2_START toe E2_END about 30 years previously .
+__label__true, Mechanisms that incorporate external compression , limb elevation , exercise , and even a E1_START pump E1_END to improve venous E2_START drainage E2_END may be beneficial .
+__label__false, Touch sliding E1_START keyboard E1_END offers keyless E2_START typing E2_END .
+__label__false, The E1_START acts E1_END of terror the world has witnessed have welded a E2_START bond E2_END among freedom-loving nations .
+__label__true, I heard of horror stories about a needle staying in the tissue after injection , it detached from a E1_START syringe E1_END after a E2_START nurse E2_END completed the injection and tried to withdraw the needle .
+__label__true, The E1_START drill E1_END enables the E2_START dentist E2_END to accomplish these procedures quickly and reduces the trauma to oral tissues .
+__label__true, The E1_START victim E1_END , who was positioned underneath the conveyor , was using a E2_START hammer E2_END to adjust the return roller .
+__label__false, A E1_START gift annuity E1_END combines a E2_START gift E2_END with an investment .
+__label__false, It is entirely possible to sail a E1_START canoe E1_END using a E2_START paddle E2_END to steer .
+__label__false, The E1_START sledgehammer E1_END can apply more E2_START impulse E2_END than other hammers due to its large size .
+__label__false, With its non-slip , ambidextrous grip , the E1_START peeler E1_END glides effortlessly through E2_START foods E2_END .
+__label__true, I 'm running a E1_START charity E1_END that helps the poorest school E2_START libraries E2_END in the U.S .
+__label__true, When the E1_START taxi driver E1_END stopped his E2_START car E2_END and got out , the two people ran up the street toward downtown Potsdam .
+__label__false, On this oval porthole , a lace E1_START drape E1_END keeps the E2_START bathroom E2_END private while showing off the shapely window and letting in light .
+__label__true, Special construction and a E1_START rubberized trim E1_END helps the E2_START handset E2_END stand up to everyday wear-and-tear , and even occasional dropping .
+__label__false, The E1_START actor E1_END played a psychopathic preacher with a restrained E2_START malice E2_END .
+__label__true, It is noteworthy that Peacham 's emblem has a E1_START hunter E1_END chasing the ermine with a E2_START spear E2_END and dogs .
+__label__false, The E1_START corbel E1_END was carved with a contorted E2_START face E2_END .
+__label__false, E1_START Calendar E1_END is cut off with some Firefox E2_START extensions E2_END that use the statusbar .
+__label__true, E1_START Thieves E1_END used a E2_START blowtorch E2_END and bolt cutters to force their way through a fenced area topped with razor wire .
+__label__true, The E1_START glomeruli E1_END assist the E2_START kidneys E2_END in filtering urine from the blood .
+__label__true, The E1_START patient E1_END literally sawed it in half using a hard E2_START toothbrush E2_END over a period of many years .
+__label__false, A E1_START pulsar E1_END powers the supernova E2_START remnant E2_END by confirming the existence of the point-like source and discovering a cloud of high-energy electrons around the central object .
+__label__false, A single E1_START blow E1_END made with the E2_START chisel E2_END angled incorrectly can crack a block or break a delicate protrusion .
+__label__false, The piglet 's incisor E1_START teeth E1_END are cut off with E2_START pliers E2_END .
+__label__false, A very robust metal hydride discovery E1_START approach E1_END was made with a demonstrated HTS E2_START methodology E2_END .
+__label__true, The E1_START microwave E1_END E2_START oven E2_END is one of the great inventions of the 20th century .
+__label__false, During a dribble the E1_START dribbler E1_END keeps the E2_START ball E2_END on the side of his body that is away from the defender .
+__label__true, The event featured a demonstration of weaving on a E1_START loom E1_END by local E2_START weaver E2_END Nancy Alexander .
+__label__false, We did a computer search for studies of E1_START vasectomies E1_END done without a E2_START scalpel E2_END versus with a scalpel .
+__label__true, A E1_START car battery E1_END powered a E2_START laptop computer E2_END connected to a small , portable satellite antenna .
+__label__true, The E1_START software E1_END uses the wrong comment E2_START marks E2_END for PHP files .
+__label__false, In the summer , relax by the lake , take out a E1_START paddle E1_END E2_START boat E2_END , canoe or kayak or enjoy the sun at the split rock pool .
+__label__true, The E1_START boys E1_END sawed wood with the E2_START sawing machine E2_END this afternoon .
+__label__true, Anti-gun E1_START forces E1_END still wield a lot of E2_START political power E2_END .
+__label__false, The E1_START mallet E1_END would be held in one hand with the E2_START chisel E2_END touching the wood in the other .
+__label__false, The E1_START commander E1_END sawed logs with his E2_START neck E2_END hanging radically from one medieval arm while his feet hung three feet above the hardwood floor on the other side .
+__label__false, A E1_START clinical lectureship E1_END combines a E2_START university lectureship E2_END with specialist registrar training ( via an honorary national training number ) .
+__label__false, Using a small sharp E1_START knife E1_END , we cut the E2_START vanilla bean E2_END in half .
+__label__true, For this reason the E1_START hairdresser E1_END prefers conventional E2_START scissors E2_END , which however do not exhibit the ergonomical advantages .
+__label__false, The brachioradialis E1_START reflex E1_END is observed by striking the brachioradialis tendon directly with the E2_START hammer E2_END when the patient 's arm is resting .
+__label__true, E1_START Physician E1_END need only bring E2_START stethoscope E2_END and otoscope .
+__label__false, Tou should use a E1_START screwdriver E1_END to tighten the E2_START bolt E2_END very tightly .
+__label__false, The Norwalk E1_START juicer E1_END grinds and presses any E2_START fruit E2_END or vegetable .
+__label__false, Quality forged pinking E1_START scissors E1_END cut with exceptional E2_START ease E2_END and efficiency .
+__label__false, It is a motorized spherical mechanism that is designed to simulate the E1_START rowing motion E1_END of an E2_START oar E2_END .
+__label__true, Unlike earlier machines , their E1_START typewriter E1_END permits the E2_START typist E2_END to see what is being typed and has other features that make it the first really practical typing machine .
+__label__true, The E1_START river E1_END once powered a E2_START gristmill E2_END .
+__label__true, This assumes steady employment of a E1_START loom E1_END employing a master E2_START weaver E2_END and three assistants together with female and child helpers .
+__label__true, The E1_START broadsword E1_END was used in some E2_START units E2_END .
+__label__true, Most E1_START sewing machines E1_END use a sturdier E2_START stitch E2_END known as the lock-stitch .
+__label__true, In a nutshell , E1_START orienteering E1_END combines a E2_START physical skill E2_END with a more cerebral element .
+__label__true, Originally , the typewriter sales companies sold the E1_START typist E1_END with the E2_START typewriter E2_END .
+__label__true, The E1_START president E1_END used the E2_START pretext E2_END of `` national security '' .
+__label__false, We can make E1_START rolling E1_END easier and more effective by choosing a heavy E2_START rolling pin E2_END .
+__label__true, The E1_START climber E1_END had a E2_START hook E2_END in each hand .
+__label__false, A high voltage sand-filled E1_START fuse E1_END was made using a conventional sand-filled fuse E2_START design E2_END .
+__label__true, The E1_START company E1_END uses a E2_START policy assertion E2_END to convey a condition under which they offer a Web service .
+__label__false, The E1_START booby trap E1_END Puller stepped on was made with a E2_START howitzer shell E2_END .
+__label__true, E1_START Police officer E1_END uses a `` Taser '' E2_START stun gun E2_END to subdue a glass-wielding six-year-old .
+__label__false, Paul the E1_START novelist E1_END has a E2_START computer E2_END but uses his old Smith Corona manual .
+__label__true, Further left a E1_START boy E1_END is fighting a peacock with a E2_START stick E2_END , and to the right a boy is killing an attacking goat with a spear .
+__label__false, Elizabeth Smither 's E1_START tokotoko E1_END was made with a E2_START gear lever E2_END .
+__label__false, A large E1_START rig E1_END combines a E2_START trampoline system E2_END with a bungee cord system .
+__label__true, We unscrew a E1_START light bulb E1_END that uses a lot of E2_START electricity E2_END and replace it with one that uses much less .
+__label__false, In a preliminary investigation , E1_START Cheddar cheese E1_END was made with a E2_START lactococcal starter E2_END overproducing different peptidases .
+__label__true, The E1_START observatory E1_END has used a 45-meter cosmic radio emission E2_START telescope E2_END to make a number of important contributions .
+__label__false, The E1_START lawn mower E1_END cuts a E2_START swath E2_END of grass as it moves across the lawn .
+__label__false, E1_START Judges E1_END wear the bench E2_START wig E2_END when they are sitting in court .
+__label__true, The E1_START gavel E1_END helps the E2_START judge E2_END establish his or her rule over the court room .
+__label__true, The E1_START knight E1_END raised his dragon E2_START battle axe E2_END , and dealt the creature a crushing blow .
+__label__true, The E1_START gavel E1_END banged and the E2_START judge E2_END would have sent him back to jail .
+__label__false, The book is about HOW the E1_START bomb E1_END was used in E2_START diplomacy E2_END .
+__label__false, Many E1_START games E1_END can be played with Go E2_START equipment E2_END .
+__label__false, Sitting by the beach , Yuki mended the E1_START net E1_END while the E2_START fisherman E2_END collected the shells .
+__label__false, To get a perfect E1_START rowing stroke E1_END the E2_START oar E2_END ca n't have too much forward pitch or it will dive .
+__label__true, The authors take us on an extraordinary journey , from the depths of the ocean to the E1_START net E1_END of a E2_START fisherman E2_END .
+__label__true, If the E1_START weaver E1_END sits at the E2_START loom E2_END for extended periods of time , the intense pressure on her lower body generates severe lower back and leg pain .
+__label__true, Just as the E1_START net E1_END enables the E2_START fisherman E2_END to catch many fish in one go , the pattern was favored by the samurai as it symbolized victory over many opponents at one time .
+__label__true, E1_START Evaluators E1_END applied the statistically accurate E2_START generalization E2_END that men are usually taller than women to their estimates of the height of individuals who did not necessarily conform to the generalization .
+__label__false, A E1_START midwife E1_END assists the E2_START birth E2_END , and women usually rely on their mothers or other women for support during labour .
+__label__true, E1_START Construction workers E1_END utilized a E2_START crane E2_END to assist in bringing roofing materials up to the top .
+__label__false, The E1_START surgeon E1_END cuts a small E2_START hole E2_END in the skull and lifts the edge of the brain to expose the nerve .
+__label__false, A E1_START lodge E1_END combines a E2_START colonial atmosphere E2_END with the rustic beauty and history of Africa .
+__label__true, The E1_START weaver E1_END sits with a E2_START loom E2_END fixing the back strap , keeps her legs against the footrest , which is adjustable for keeping the loom in tension .
+__label__true, A E1_START biologist E1_END combines a range of diverse and distributed E2_START resources E2_END ( databases , tools , instruments ) to answer complex questions .
+__label__true, She spread a cream wax , applied strips ( the E1_START spa E1_END uses a stripless E2_START wax E2_END for the bikini ) , and removed them with such agility that we barely flinched .
+__label__false, Every time you increase on a sleeve or knitted piece , add a E1_START knitting pin E1_END to the increase E2_START stitch E2_END .
+__label__false, Strikingly large in scale , this E1_START grater E1_END shaves a perfect E2_START portion E2_END in a single stroke .
+__label__true, The fascinating aspect of therapeutic riding is that the E1_START rider E1_END sitting astride a E2_START horse E2_END walking establishes what is a perfect walking gait for the human .
+__label__false, E1_START Taxi driver E1_END spotted stolen E2_START car E2_END shortly after police sent out an alert .
+__label__true, The E1_START builder E1_END can mortise the hinges just as fast using a sharp E2_START chisel E2_END .
+__label__true, The woman left the room and walked down the hall and saw the E1_START novelist E1_END hunched before his E2_START computer E2_END .
+__label__true, Similarly , the western E1_START physician E1_END 's white coat and E2_START stethoscope E2_END and the environment of western medical clinics and hospitals create an aura of expectancy and hope for healing .
+__label__false, The white fatty E1_START substance E1_END obtained from the head of the sperm whale was used in E2_START pharmaceuticals E2_END and candles .
+__label__true, As the E1_START policeman E1_END hit her with his E2_START truncheon E2_END , another police officer pushed him away from her and shouted for him to stop .
+__label__true, Hoover is also notable for an extremely unusual E1_START vacuum E1_END E2_START cleaner E2_END , the Hoover Constellation , which is canister type but lacks wheels .
+__label__true, The original E1_START engine E1_END powered a limited-production Mustang E2_START model E2_END sold for two years .
+__label__true, I worked as a E1_START crane E1_END E2_START operator E2_END in construction at that time .
+__label__false, Bernie the E1_START barber E1_END downed his E2_START scissors E2_END , leaving the final triangle of hair uncut .
+__label__false, The third E1_START observation E1_END was made with the Echellette E2_START spectrograph E2_END .
+__label__false, This is the same basic E1_START mechanism E1_END at work in a E2_START vacuum cleaner E2_END , though the execution is a bit more complicated .
+__label__true, If the same sari is contracted out to a master E1_START weaver E1_END who owns a E2_START loom E2_END but employs two adults and two children to work on it , the adults would get Rs.400 each and the children Rs.100 each .
+__label__false, At that point the E1_START patient E1_END grabbed the arm of the dentist to forcibly pull the E2_START drill E2_END out of his mouth .
+__label__true, Unless the public authority knows that the E1_START applicant E1_END has used a E2_START pseudonym E2_END , it will be difficult to refuse a request on that ground .
+__label__false, Providence had sent the old E1_START man E1_END into the world with a E2_START chisel E2_END in his hand .
+__label__false, When the power goes , the E1_START dentist E1_END quizzically raises the E2_START drill E2_END , and examines it .
+__label__true, It seemed to be a regular rule that , whenever a E1_START horse E1_END stumbled the E2_START rider E2_END fell off instantly .
+__label__true, E1_START Electron microscopes E1_END are scientific instruments that use a E2_START beam E2_END of highly energetic electrons to examine objects on a very fine scale .
+__label__true, Cuban E1_START ballplayers E1_END wield a bigger E2_START policy bat E2_END .
+__label__true, The E1_START hairdresser E1_END took his E2_START scissors E2_END and held up a coil of hair .
+__label__true, A goal is like a mountain outcropping to which a E1_START climber E1_END throws a E2_START grappling hook E2_END and pulls themselves up .
+__label__false, The quartz sample E1_START tube E1_END with polyradical residue was cut with diamond E2_START knife E2_END to the size that fit into the Teflon digestion vessel .
+__label__true, A sewing machine is a mechanical ( or electromechanical ) E1_START device E1_END that joins fabric using E2_START thread E2_END .
+__label__false, Original E1_START sculptures E1_END were carved with a E2_START chainsaw E2_END .
+__label__false, Before the E1_START barber E1_END takes his E2_START scissors E2_END out , family , friends and rabbis take turns snipping .
+__label__false, A gasoline E1_START engine E1_END powers a hydraulic drive E2_START train E2_END that provides torque at all six wheels .
+__label__false, The authors found that the peak E1_START rowing force E1_END exerted on the E2_START oar blade E2_END increased slowly , but quadratically , with stroke rate .
+__label__false, The E1_START interpretation E1_END was made using the Huynh-Feldt adjusted E2_START results E2_END .
+__label__false, The E1_START notion E1_END of a backprojection was used in that E2_START section E2_END to characterize the set of states that can reach another set of states in one stage .

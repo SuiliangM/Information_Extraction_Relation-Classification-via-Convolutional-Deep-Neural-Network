@@ -1,0 +1,40 @@
+__label__false, A E1_START midwife E1_END assists the E2_START birth E2_END , and women usually rely on their mothers or other women for support during labour .
+__label__true, E1_START Construction workers E1_END utilized a E2_START crane E2_END to assist in bringing roofing materials up to the top .
+__label__false, The E1_START surgeon E1_END cuts a small E2_START hole E2_END in the skull and lifts the edge of the brain to expose the nerve .
+__label__false, A E1_START lodge E1_END combines a E2_START colonial atmosphere E2_END with the rustic beauty and history of Africa .
+__label__true, The E1_START weaver E1_END sits with a E2_START loom E2_END fixing the back strap , keeps her legs against the footrest , which is adjustable for keeping the loom in tension .
+__label__true, A E1_START biologist E1_END combines a range of diverse and distributed E2_START resources E2_END ( databases , tools , instruments ) to answer complex questions .
+__label__true, She spread a cream wax , applied strips ( the E1_START spa E1_END uses a stripless E2_START wax E2_END for the bikini ) , and removed them with such agility that we barely flinched .
+__label__false, Every time you increase on a sleeve or knitted piece , add a E1_START knitting pin E1_END to the increase E2_START stitch E2_END .
+__label__false, Strikingly large in scale , this E1_START grater E1_END shaves a perfect E2_START portion E2_END in a single stroke .
+__label__true, The fascinating aspect of therapeutic riding is that the E1_START rider E1_END sitting astride a E2_START horse E2_END walking establishes what is a perfect walking gait for the human .
+__label__false, E1_START Taxi driver E1_END spotted stolen E2_START car E2_END shortly after police sent out an alert .
+__label__true, The E1_START builder E1_END can mortise the hinges just as fast using a sharp E2_START chisel E2_END .
+__label__true, The woman left the room and walked down the hall and saw the E1_START novelist E1_END hunched before his E2_START computer E2_END .
+__label__true, Similarly , the western E1_START physician E1_END 's white coat and E2_START stethoscope E2_END and the environment of western medical clinics and hospitals create an aura of expectancy and hope for healing .
+__label__false, The white fatty E1_START substance E1_END obtained from the head of the sperm whale was used in E2_START pharmaceuticals E2_END and candles .
+__label__true, As the E1_START policeman E1_END hit her with his E2_START truncheon E2_END , another police officer pushed him away from her and shouted for him to stop .
+__label__true, Hoover is also notable for an extremely unusual E1_START vacuum E1_END E2_START cleaner E2_END , the Hoover Constellation , which is canister type but lacks wheels .
+__label__true, The original E1_START engine E1_END powered a limited-production Mustang E2_START model E2_END sold for two years .
+__label__true, I worked as a E1_START crane E1_END E2_START operator E2_END in construction at that time .
+__label__false, Bernie the E1_START barber E1_END downed his E2_START scissors E2_END , leaving the final triangle of hair uncut .
+__label__false, The third E1_START observation E1_END was made with the Echellette E2_START spectrograph E2_END .
+__label__false, This is the same basic E1_START mechanism E1_END at work in a E2_START vacuum cleaner E2_END , though the execution is a bit more complicated .
+__label__true, If the same sari is contracted out to a master E1_START weaver E1_END who owns a E2_START loom E2_END but employs two adults and two children to work on it , the adults would get Rs.400 each and the children Rs.100 each .
+__label__false, At that point the E1_START patient E1_END grabbed the arm of the dentist to forcibly pull the E2_START drill E2_END out of his mouth .
+__label__true, Unless the public authority knows that the E1_START applicant E1_END has used a E2_START pseudonym E2_END , it will be difficult to refuse a request on that ground .
+__label__false, Providence had sent the old E1_START man E1_END into the world with a E2_START chisel E2_END in his hand .
+__label__false, When the power goes , the E1_START dentist E1_END quizzically raises the E2_START drill E2_END , and examines it .
+__label__true, It seemed to be a regular rule that , whenever a E1_START horse E1_END stumbled the E2_START rider E2_END fell off instantly .
+__label__true, E1_START Electron microscopes E1_END are scientific instruments that use a E2_START beam E2_END of highly energetic electrons to examine objects on a very fine scale .
+__label__true, Cuban E1_START ballplayers E1_END wield a bigger E2_START policy bat E2_END .
+__label__true, The E1_START hairdresser E1_END took his E2_START scissors E2_END and held up a coil of hair .
+__label__true, A goal is like a mountain outcropping to which a E1_START climber E1_END throws a E2_START grappling hook E2_END and pulls themselves up .
+__label__false, The quartz sample E1_START tube E1_END with polyradical residue was cut with diamond E2_START knife E2_END to the size that fit into the Teflon digestion vessel .
+__label__true, A sewing machine is a mechanical ( or electromechanical ) E1_START device E1_END that joins fabric using E2_START thread E2_END .
+__label__false, Original E1_START sculptures E1_END were carved with a E2_START chainsaw E2_END .
+__label__false, Before the E1_START barber E1_END takes his E2_START scissors E2_END out , family , friends and rabbis take turns snipping .
+__label__false, A gasoline E1_START engine E1_END powers a hydraulic drive E2_START train E2_END that provides torque at all six wheels .
+__label__false, The authors found that the peak E1_START rowing force E1_END exerted on the E2_START oar blade E2_END increased slowly , but quadratically , with stroke rate .
+__label__false, The E1_START interpretation E1_END was made using the Huynh-Feldt adjusted E2_START results E2_END .
+__label__false, The E1_START notion E1_END of a backprojection was used in that E2_START section E2_END to characterize the set of states that can reach another set of states in one stage .
