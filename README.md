@@ -1,12 +1,35 @@
-# LING575_Information_Extraction
+# Relation Classification via Convolutional Deep Neural Network
 
-Things we have done (As of 05/09/2019):
+This is an implementation of paper [Relation Classification via Convolutional Deep Neural Network](http://www.aclweb.org/anthology/C14-1220) in PyTorch
 
-Data preprocess for 2007 Sample data
-Baseline model (SVM model with different kernel functions, Naive Bayes model (2 variants) and Fasttext model)
+## Model
 
-Things to do:
-Data preprocess and conversion of 2010 sample data
-CNN model
-SVM model refinement
+![framework](./framework.png)
 
+## Environment
+
+* Python 3.6+
+* PyTorch 1.1.0
+
+## Data
+
+The experiment data is SemEval-2010 task8 data, and is available at [link](https://drive.google.com/file/d/0B_jQiLugGTAkMDQ5ZjZiMTUtMzQ1Yy00YWNmLWJlZDYtOWY1ZDMwY2U4YjFk/view?layout=list&ddrp=1&sort=name&num=50#)
+
+## Usage
+
+Data preprocess
+
+```bash
+python process.py --in_filename=ARGS --out_filename=ARGS
+```
+
+Training
+
+```bash
+python cnn_train.py --KEY=VALUE
+```
+
+## Result
+
+Accuracy
+67.84%
