@@ -1,0 +1,20 @@
+To repair , use duct tape or caulk to seal gaps in the metal box and between joints and seams in the duct .	10	10	13	14	false
+The kitchen contains basic items such as salt , pepper and olive oil .	1	1	7	7	false
+In particular , we work on devices that take the signal that is carried in a beam of light going through an optical fiber and transfer that signal to another beam of light going through the same fiber .	10	10	16	16	true
+The building contained a large open central space with tables and chairs as well as a nursery and two tearooms .	1	1	5	7	false
+The bag contained books , a cell phone and notepads , but no explosives .	1	1	3	3	true
+The kitchen contained a large stove , a sink , a small table with chairs , and an old sofa that had seen many children and grandchildren tear at its skin .	1	1	5	5	true
+I find it hard to bend and reach and I cannot use the cupboards in my kitchen .	13	13	16	16	false
+So I was looking at the ceiling in my kitchen yelling at God .	6	6	9	9	false
+I 'm looking at one right now and he appears to be very content , despite the fact that he 's trying to sleep in a kitchen that contains a noisy boiler .	26	26	31	31	true
+There was a persistent rumor that the contents of the cornerstone included a liquor bottle that would have had 49 years to age .	10	10	13	14	true
+Conference center has at least one dedicated main conference room that contains a minimum of 1 ,000 square feet and can accommodate flexible seating arrangements .	9	9	17	18	false
+The acid is kept in a level-controlled tank (with a controller and an alarm . in the event of low acid level) .	1	1	7	7	true
+To test this , we placed a kitchen match in the jar instead of the candle , lit the match , screwed on the lid and dropped the jar .	8	8	11	11	true
+The building contained laboratory facilities for conducting spectrochemical , chemical , and mass spectrometric analyses .	1	1	3	4	false
+On the other hand , the information being carried in a high frequency quasi-sinusoidal wave invites comparisons with the auditory system of vertebrates .	6	6	14	14	true
+This is why , not only the contents of the box were a present , but the box itself was as a present .	10	10	13	13	true
+Until 1729 the building contained only the grammar school .	3	3	7	8	false
+Maybe some relationships are best kept in a box .	2	2	8	8	false
+Some inactivated influenza vaccine contains thimerosal , a preservative that contains mercury .	8	8	11	11	false
+The kitchen contains various commercial equipment such as stoves , griddles , deep fryer , and an oven .	1	1	8	8	true

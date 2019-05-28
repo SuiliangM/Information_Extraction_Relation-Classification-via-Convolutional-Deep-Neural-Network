@@ -13,7 +13,14 @@ This is an implementation of paper [Relation Classification via Convolutional De
 
 ## Data
 
-The experiment data is SemEval-2010 task8 data, and is available at [link](https://drive.google.com/file/d/0B_jQiLugGTAkMDQ5ZjZiMTUtMzQ1Yy00YWNmLWJlZDYtOWY1ZDMwY2U4YjFk/view?layout=list&ddrp=1&sort=name&num=50#)
+1. 'Cause-Effect' 1003
+2. 'Instrument-Agency' 504
+3. 'Product-Producer' 717
+4. 'Entity-Origin' 716
+5. 'Theme-Tool' 0
+6. 'Component-Whole' 941
+7. 'Content-Container' 540
+8. 'Other' 1410
 
 ## Usage
 
@@ -26,7 +33,15 @@ python process.py --in_filename=ARGS --out_filename=ARGS
 Training
 
 ```bash
-python cnn_train.py --KEY=VALUE
+python main.py --train_filename data/2010/merge_bin_2010/train/train-1 --test_filename data/2010/merge_bin_2010/test/test-1
+python main.py --train_filename data/2010/merge_bin_2010/train/train-2 --test_filename data/2010/merge_bin_2010/test/test-2
+python main.py --train_filename data/2010/merge_bin_2010/train/train-3 --test_filename data/2010/merge_bin_2010/test/test-3
+python main.py --train_filename data/2010/merge_bin_2010/train/train-4 --test_filename data/2010/merge_bin_2010/test/test-4
+python main.py --train_filename data/2010/merge_bin_2010/train/train-5 --test_filename data/2010/merge_bin_2010/test/test-5
+python main.py --train_filename data/2010/merge_bin_2010/train/train-6 --test_filename data/2010/merge_bin_2010/test/test-6
+python main.py --train_filename data/2010/merge_bin_2010/train/train-7 --test_filename data/2010/merge_bin_2010/test/test-7
+
+python main.py data/2010/split_bin_2010/train-1 --test_filename data/2010/merge_bin_2010/test/test-
 ```
 
 ## Result

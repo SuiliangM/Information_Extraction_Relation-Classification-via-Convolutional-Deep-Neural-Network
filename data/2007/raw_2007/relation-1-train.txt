@@ -16,7 +16,7 @@ Comment: "daily terror" -> "terror"; (b) "antipersonnel landmines" -> "land mine
 005 "The Global Warming <e1>segment</e1> starts off with two, cute <e2>anecdotes</e2> about flowers blooming early and aardvarks moving North."
 WordNet(e1) = "segment%1:06:00::" , WordNet(e2) = "anecdote%1:10:00::", Cause-Effect(e2,e1) = "false", Query = "* starts with *"
 
-006 "The report links conditions in some of the worst affected localities and the likelihood that dire poverty ?combined with despair and <e1>outrage</e1> over <e2>rampant corruption</e2>, repressive policies, and governments' failure to address local needs ?could lead to outbreaks of localised unrest with the potential to spread into a wider regional conflict."
+006 "The report links conditions in some of the worst affected localities and the likelihood that dire poverty — combined with despair and <e1>outrage</e1> over <e2>rampant corruption</e2>, repressive policies, and governments' failure to address local needs — could lead to outbreaks of localised unrest with the potential to spread into a wider regional conflict."
 WordNet(e1) = "outrage%1:12:00::", WordNet(e2) = "corruption%1:07:00::", Cause-Effect(e2,e1) = "true", Query = "outrage over *"
 Comment: "rampant corruption" -> "corruption"
 

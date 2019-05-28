@@ -1,0 +1,120 @@
+We provide test preparers with a platform for populating a bank of questions during the course of the year .	6	6	10	10	true
+Multiple reports of a man caught spying in the residence halls , women 's showers have the UW Police Department (UWPD) on the lookout for a peeping tom . 	23	23	26	27	true
+It is a method for the solution of roots of a nonlinear equation and for solution of the general eigenvalue problem .	3	3	6	6	false
+It is a method for the comprehensive proteomic analysis of membrane proteins .	3	3	8	8	false
+11-year-olds ' entire plan for night is to smoke cigarettes .	3	3	9	9	false
+The port scanner is a utility to scan a system to get the status of the TCP .	1	1	2	2	true
+Tor is a toolset for a wide range of organizations and people that want to improve their safety and security on the Internet .	3	3	9	9	false
+The submission deadline is February , 2 , 2007 .	1	1	2	2	true
+DomainKeys provide a mechanism for verifying the identity of an email sender in order to solve common spamming techniques such as forgery and spoofing .	3	3	7	7	false
+It is a method for solving a system of equations .	3	3	9	9	false
+My proposal is to concentrate on green energy .	1	1	7	7	false
+Mayor has a proposal for a Suffolk campus .	3	3	7	7	false
+The outage was for reconfiguration of the new replica database .	1	1	4	4	true
+The natural , semantic way to express this information is to add an attribute .	4	4	8	8	false
+Attocube systems AG , one of the leading suppliers of nanopositioning devices for extreme environments , has been nominated today as a finalist for the award .	22	22	25	25	false
+My sole desire was to write a book on black veterans using their words .	2	2	7	7	false
+The computer may execute the malicious program as soon as the email message is viewed .	11	11	12	12	true
+A process for obtaining a free research use license has been established through the University of Illinois Office of Technology Management .	1	1	8	8	false
+Taken in total , the case for prosecuting the former members of the Symbionese Liberation Army for taking Myrna Opsahl 's life is irrefutable .	5	5	10	10	true
+The domain is for sale .	1	1	4	4	false
+Both parents should get a tax exemption for the children .	6	6	9	9	false
+My sin was to write a screenplay accurately depicting Bill Clinton 's record on terrorism . 	1	1	6	6	false
+The hyperlink is coded so that the text description is a full URL .	7	7	8	8	false
+The process for obtaining a visa depends on what type of visa you are eligible for .	1	1	5	5	false
+This is how much a recommendation for a product is worth in financial terms .	5	5	8	8	true
+The projection was for revenue of $6 .4 billion and earnings per share of 78 cents .	1	1	4	4	false
+Another reason is to get extremely high energy densities in collisions of matter and antimatter .	1	1	8	8	false
+These criteria are used for determining chart position for Songs , CDs and Artists .	1	1	7	7	false
+When the decision of the CAMPEP is for continued accreditation , the program director is notified in a letter that includes all suggestions .	2	2	9	9	false
+This is a methodology for accrediting a commercial distributed database .	3	3	9	9	false
+Requesting a lock on a resource requires contacting the server responsible for granting the lock .	9	9	14	14	true
+This publication details the procedure for filing a complaint under title III of the ADA .	4	4	8	8	false
+Thus , while today we need the expansion of localized cultural practices , they attain their real significance only within the struggle for the transformation of society as a whole .	21	21	24	24	false
+This would seem to suggest that Hizzoner is on the hunt for a new team .	10	10	14	14	false
+In most part , it was another a plea for the status quo and also for patience .	8	8	11	12	true
+This form is used for filing an initial financing statement .	1	1	9	9	true
+For the Cartesian kernels there is only one number type that is used for all calculations .	9	9	15	15	false
+It is a method for assessing the statistical significance of RNA folding .	3	3	8	8	false
+Laser profiling is a technique for the study of prosthetic heart valve leaflet motion .	4	4	7	7	true
+I mentioned some time ago that our tendency is to regard sin as the reality .	7	7	11	11	false
+The predictions presented at this NASA 2004 Transit of Venus web site are provided as a resource for the public .	16	16	19	19	false
+The program is for encryption of the information .	1	1	7	7	true
+News from the Caravan posts a recipe for manti , a dish made in not just Kazakhstan , but also in the rest of Central Asia , Mongolia , and Turkey .	6	6	8	8	true
+The appointment is for a three-year term , during which Robillard will remain dean of Carver College of Medicine .	1	1	6	6	false
+The revocation was for failure to maintain regular business hours .	1	1	4	4	true
+We need a description of the bug and a recipe for recreating the bug reliably .	9	9	13	13	false
+It is a euphemism for overthrowing a hostile foreign government .	3	3	9	9	false
+Rather , the preference was for the foods that contain it .	3	3	7	7	false
+A grantee may appeal this decision only if the withholding was for the grantee 's failure to comply with the terms and conditions of a previous award .	9	9	15	15	true
+Our hope is to extend this framework into reusable behaviors and UI widgets .	1	1	6	6	false
+The idea was to connect hypertext with the Internet and personal computers .	1	1	5	5	false
+The web service is reasonably well-documented here .	1	1	2	2	true
+This led them to believe the eviction was for private development .	6	6	10	10	false
+The present invention refers to a device for actuating a membrane arranged in an opening to a space .	6	6	10	10	true
+The intent of the fourteenth amendment was to protect all rights .	1	1	10	10	false
+They discussed the impact of their critical meetings held in the wake of India 's 1998 nuclear tests , ultimately laying the groundwork for the current movement to build a firm strategic relationship between India and the United States .	22	22	26	26	false
+Unhappy with Beno Udrih , the Spurs are on the prowl for a more dependable two-way , pass-and-shoot point guard .	10	10	19	19	false
+The latest polls earlier this year showed that 87% of Iraqis support a request for setting a timetable for pulling out the occupation troops .	13	13	17	17	false
+Technical peeves aside , the value of the Semantic Web is to solve real problems in communication .	5	5	14	14	false
+The objective was for a tough week leading up to the trip to the US , and we certainly got that .	1	1	6	6	false
+We 're honored to be chosen as a finalist for a CODiE award by the esteemed panel of judges .	8	8	12	12	false
+According to a spokeswoman for the Israeli army , factories in the Bekaa Valley were targeted because of suspicions that they were storing weapons .	3	3	7	7	false
+It is a parallel algorithm for reconfiguring a multibutterfly network with faulty switches .	4	4	9	9	true
+This is a framework for querying a database for structural information on 3D images of macromolecules .	3	3	7	7	false
+And part of the job of the team member is to assist newcomers .	4	4	12	12	true
+It is the blueprint for a design revolution .	3	3	7	7	false
+A feel for numbers , and a passion for achieving a quantitative understanding of complex interactions is needed .	7	7	12	12	false
+It is a plugin for navigating the file system .	3	3	7	8	true
+One strategy for combating phishing is to train users to deal with phishing .	1	1	8	8	false
+The objective of this tender is to provide a service contract .	1	1	10	10	false
+They use the dog park as a substitute for the walk .	7	7	10	10	true
+Yet the nomination was for original music .	2	2	6	6	true
+The audition was for a small part in Where the Heart Is .	1	1	6	6	false
+The Web 's main virtue , in handling data , is to transmute organization from an a priori , content-based judgment to one that can be ad hoc , context-based , socially embedded , and constantly altered .	4	4	13	13	false
+The table is used for layout , and does not use any structural markup for the purpose of visual formatting .	1	1	5	5	true
+This form is used for background clearance and record keeping purposes .	1	1	6	6	true
+Pin is a tool for the dynamic instrumentation of programs .	3	3	7	7	true
+The obvious solution was to standardize on Microsoft Office software .	2	2	9	9	false
+The forecast is for slightly higher temperatures .	1	1	6	6	false
+This manual is for the serious user of the GNU Image Manipulation Program .	1	1	6	6	true
+The forecast was for surprisingly good weather up until midnight .	1	1	6	6	false
+This insures appropriately fresh data is displayed if , for example , the prefetch is for a banner ad to a URL whose content changes with each request .	13	13	18	18	true
+Sulfur is used for cooling and insulating of some high-voltage power systems .	0	0	11	11	true
+We clicked the thumbnail for a preview of the theme .	3	3	6	6	true
+This is a poor recipe for a transformation for either discipline .	4	4	7	7	false
+The intent was for the occupying powers to govern the country together inside the 1947 borders .	1	1	10	10	false
+The predominant approach is to select one or two primary languages and use them for the company-wide features and content .	2	2	10	10	false
+It is a method for transposing a matrix .	3	3	7	7	false
+The purpose of CellML is to store and exchange computer-based mathematical models .	1	1	11	11	false
+It is behind the hunt for the Higgs boson .	4	4	8	8	false
+But socialism , far from being  'finished ' , will once again become the idea that guides workers and youth in the struggle for a new society .	23	23	27	27	true
+These functions were designed to steal a reference because of a common idiom for populating a tuple or list with newly created objects .	12	12	16	16	false
+The Psychological Autopsy is a technique for investigating a hospital suicide .	5	5	10	10	false
+The data is used for analysis , including knowledge of the visitor 's identity .	1	1	5	5	true
+The purpose of this Guide is to provide you with a general roadmap of some of the legal issues specific to podcasting .	1	1	12	12	false
+In Louisiana , more than 50 times more water is used for fish farming than is used for animals that produce meat , poultry , and milk .	8	8	12	12	true
+This is a quest for a way around aging .	3	3	6	6	false
+The workshop is for all people involved in the management of institutional Web services .	1	1	5	5	true
+We suggest using a blog for a Web 2 .0 presentation instead of PowerPoint .	4	4	10	10	true
+Fourteen trades later , he made his stated goal , which was to trade a paperclip for a house .	15	15	18	18	true
+Contact information and financial information are kept private and is used for no other purpose than what is indicated above .	4	4	14	14	true
+It is a device for aligning a pinhole with a microscope objective .	3	3	7	7	true
+The family as a model for the organization of the state is a theory in political philosophy .	4	4	7	7	false
+The provisions of the proposal for a directive also run counter to the case .	4	4	7	7	false
+The appointment was for more than one year , so the recommendation discussed evidence to date of the candidate 's teaching .	1	1	7	7	false
+A Justice Department lawyer may have been laying the groundwork for the Iraq invasion long before it was discussed publicly by the White House .	9	9	13	13	false
+LANDIS & STAEFA , INC . is awarded a contract for supplying the city of Seattle .	9	9	13	13	false
+The governor general of the Turkish province of Van , Mehmet Niyazi Tanilir , here Saturday said that the joint border of Iran and Turkey was a model for the world .	27	27	30	30	false
+The programming staff is responsible for developing agency wide policies .	1	1	2	2	false
+An escalation factor is used for salaries , stipends , and other direct costs .	2	2	6	6	true
+A focus on convenience and knowledgeable service has enabled the 4 ,600-store chain to stake out a modest but healthy share of the huge hardware market , providing the impetus for the biggest new-store expansion in its history .	29	29	34	34	true
+Our mission in Iraq was to win the war . 	1	1	8	8	false
+Binary insertion sort algorithm is used for small lists .	3	3	8	8	true
+This is a gravity assist or a swingby for a spacecraft .	7	7	10	10	true
+Sheehan also announced at the signing that she 's a finalist for the prize . 	10	10	13	13	false
+In 2006 , the World Wide Web became a tool for bringing together the small contributions of millions of people and making them matter .	9	9	15	15	true
+These are the requirements for a full refund of the security deposit .	3	3	7	7	false
+Nothing wrong with this if the goal was for students to acquire knowledge .	6	6	12	12	false
+The formula for calculating the top rated 250 titles gives a true Bayesian estimate .	1	1	8	8	true
+Terrorists ' aim is to influence presidential vote .	2	2	7	7	false

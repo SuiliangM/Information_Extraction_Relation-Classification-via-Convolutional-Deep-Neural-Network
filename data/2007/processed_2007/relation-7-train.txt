@@ -1,0 +1,140 @@
+Put tea in a heat-resistant jug and add the boiling water .	1	1	4	5	true
+The kitchen holds patient drinks and snacks .	1	1	4	4	true
+Where are the batteries kept in a phone?	3	3	7	0	false
+This answer leads me to think that the robber was inside the office when the manager decided to take action and escape out the side door .	8	8	12	12	false
+Often the patient is kept in the hospital one night for observation , but in other cases the patient can be discharged home the same day as surgery .	2	2	7	7	false
+Batteries stored in contact with one another can generate heat and hydrogen gas .	0	0	3	3	false
+Among the contents of the vessel were a set of carpenter 's tools , several large storage jars , ceramic utensils , ropes and remnants of food , as well as a heavy load of ballast stones .	5	5	12	12	true
+You can put wine in the hookah water , and otherwise adulterate the tobacco and so on to change the flavor .	3	3	6	7	false
+And we do recommend excersise , as the kitchen holds culinary temptations in store for you that are bound to prolong your evening and lift your spirit .	8	8	10	11	false
+The catalogue contained books published in 1998 warning of the upcoming millennium bug and other similarly germane works , but neither of Brock 's bestsellers .	1	1	3	3	false
+Vinegar 's usefulness doesn 't stop inside the house .	2	2	8	8	false
+You 'll rarely see a clock inside a casino , the same goes for windows .	5	5	8	8	false
+The original Waldorf salad , created at New York 's Waldorf Astoria Hotel in the 1890s , contained only apples , mayonnaise , and celery .	3	3	19	19	false
+The library contained books of guidance on the processes .	1	1	3	3	true
+The story not only put wine in a positive health light , but pointed out that it was superior to other foods in that particular regard .	5	5	8	10	false
+Our water froze and batteries kept in pockets got cold .	4	4	7	7	true
+How do I recognize a room that contains radioactive materials?	5	5	8	0	true
+Equipment for making repairs en route was carried in a jockey box attached to one end or side of the wagon .	0	0	10	11	true
+The video contains a clip from the movie .	1	1	4	4	false
+The contents of the cyst included a foul smelling gas and white-green pus .	4	4	9	9	false
+The contents of the memorandum included stigmatizing statements about Cannon .	4	4	6	7	false
+The display table contained books and posters for visitors to browse .	1	2	4	4	false
+The bomb was contained in a suitcase and was planted by two men .	1	1	6	6	true
+We kept the antenna inside the car , which limited range due to the car 's attenuation .	3	3	6	6	false
+Any marinade that contains acid , alcohol or salt should not be used for very long , because it will chemically  'cook ' or denature the food in it .	1	1	4	4	false
+This experiment is performed with an aqueous solution of a strong acid inside a flask .	11	11	14	14	true
+Arthur and Franz are thieves , or they 're trying to be thieves , and somehow learn that Odile lives in a house that contains a large sum of money .	22	22	29	29	true
+A tokamak is a toroidal (doughnut shape) magnetic bottle that contains the fusion plasma .	7	8	12	13	true
+A letterbox is a plastic , screw-top bottle that contains a small notebook and a unique rubber stamp .	7	7	12	12	true
+That 's because nostalgia serves a useful defensive and reparative function; it took the sting from a painful episode in his life by shading the script .	14	14	17	18	false
+It has long been thought that the crypt contained the tomb of St Paul but the altar had hidden it .	7	7	10	10	false
+Flash Drives were designed to be portable - worn on a necklace or key chain - while diskettes should be carried in a case for protection .	17	17	23	23	true
+The clutter in my house was destroying me .	1	1	4	4	false
+Because of the Depression the original design was cut back significantly , but the building contained a number of unique architectural features .	14	14	20	21	false
+While Calvin is able to get the diamond , he 's nearly caught by the police while making his getaway , and stashes the jewel in a bag carried by a passerby .	24	24	27	27	true
+The kitchen holds a cooker , fridge , microwave oven , in short; everything you need if you want to prepare a light meal .	1	1	4	4	true
+Let us sprinkle flowers around and put wine in the cup .	7	7	10	10	false
+The bulbs in my house use 190 watts .	1	1	4	4	false
+Tim Boyle (1846) checks a flask that contains the dried cathode precursor powder .	5	5	12	12	true
+Your stomach is supposed to contain acid .	1	1	6	6	true
+Tapestries of rocky coastlines share wall space with a clock inside a ship 's wheel .	9	9	14	14	true
+The turn signal indicator inside the car was blinking erratically for the last month and someone recently explained that it meant the bulb had gone somewhere on the left .	1	3	6	6	false
+In the case of aerodynamic lift , the aircraft is kept in the air by wings or rotors (see aerodynamics) .	8	8	13	13	false
+Suddenly , a man approached me from nowhere and stuck a bag of candy in my face .	13	13	16	16	false
+I am installing lights under the cabinets in my kitchen .	6	6	9	9	false
+When he was back he noticed that he had locked the keys inside the car .	11	11	14	14	true
+This represents a house that contains a light bulb and an airconditioner .	3	3	7	8	false
+Because the air in the jar cannot circulate to the rest of the room , this air stays in the sunlight and gets warmer and warmer .	2	2	5	5	true
+If you mount the photo on a material that contains acid the paper will absorb the acid which in turn will attack the photo itself .	7	7	10	10	false
+There are four caverns located inside the cave with the tunnel heading west being the largest .	3	3	7	7	false
+Harry Stanley , 46 , from Hackney , East London , was shot and killed by Metropolitan Police officers who apparently had mistaken a chair-leg being carried in a plastic bag for a firearm .	24	24	29	30	true
+The building contained a significant amount of school furniture and equipment .	1	1	7	8	true
+I put candy in my jar .	2	2	5	5	true
+A pool with a sand beach is located inside the cave .	5	5	10	10	false
+You own a house that contains a granny flat .	3	3	7	8	false
+The box contained the jumbled skeletal remains of what appeared to be sheep , as well as a variety of other mammals .	1	1	5	6	true
+The discharge valve is kept in the closed position at all times unless the dike is deliberately being drained .	2	2	7	8	false
+He sued Georgia Tech and the Board of Regents , claiming his professor and the University 's administration should have provided him with laboratory safety training and should have warned him of the dangers of mixing acetone , ethanol , and nitric acid inside a metal container .	41	42	45	46	true
+The heater inside the car consumed gasoline .	1	1	4	4	false
+The contents of the boxes included phone cards , disposable cameras and razors , travel-size toiletries , snack food , and lots of candy .	4	4	6	7	true
+The food is kept in the kitchen and guests should help themselves as it is self service and not served by the hostel .	1	1	6	6	true
+He used a stable form of liquid nitroglycerin carried in a bottle labeled as contact lens solution , using cotton as a stabilizer .	6	7	11	11	true
+The kitchen contained primarily drug paraphernalia .	1	1	4	5	true
+The kitchen contained one other interesting item , a trap door in the ceiling .	1	1	9	10	false
+The main cell types are fibroblasts , macrophages and adipocytes (the hypodermis contains 50% of body fat) .	11	11	15	0	false
+Do not use perchloric or hydrofluoric acid inside a fume hood unless the hood was specifically designed for its use .	5	6	9	10	false
+Contents of the scrapbooks included pictures cut from magazines and newspapers , stories , poems and anecdotes as well as photographs .	3	3	5	5	true
+Put the flour in a preheated oven until warm to the touch (approximately 2 minutes) .	2	2	6	6	true
+Retailers have done their bit to put wine in the hands of the masses , to make it more accessible to the wider UK public , and there is little more that they can do in this regard .	7	7	10	10	false
+However , the fact that the guinea pigs appeared to function in a normal physiological manner indicates that the diets contained the necessary energy density .	19	19	23	24	false
+The total contents of the purse included a cell phone and wallet valued at $120 .	5	5	8	9	true
+Straight ahead you enter a nice sized living room that contains the front door .	7	8	13	13	false
+I put the remaining candy in my mouth and walked back the way I came , then past the village and into town .	4	4	7	7	true
+I am still amazed just how deep and loud it can get with certain soundtracks and songs , literally making things bounce off the walls in my house .	24	24	27	27	false
+Interestingly , the sink was inside the room .	3	3	7	7	false
+The lower portion of the building contained hundreds of storage rooms .	5	5	9	10	false
+The boil in a bag omelets work great too .	1	1	4	4	false
+Keep money in a box and keep your eye on it at all times .	1	1	4	4	true
+In my tests with a final engineering prototype , Scooba generally did a fine job cleaning the linoleum in my kitchen after my 2-year-old daughter 's birthday party .	17	17	20	20	false
+While that operation was a success , the contents of the satchel were a tiny loss for the traffickers .	11	11	15	15	false
+Put the flour in a mixing bowl , and mix in the water a little at a time until you 've got a dough .	2	2	5	6	true
+The other shelves contained books with sinister-sounding titles , such as Crime and Punishment , Days of Wrath , Death Walks Among You and a few others .	2	2	4	4	true
+The viewer looks through an eyehole in the metal box into the abyss , an infinite regression/progression of mirrors reflecting themselves .	5	5	8	9	false
+Put the peels in a different sack .	2	2	6	6	true
+Woz has outfitted the house with an elaborate swimming pool that extends inside the house by way of an underwater channel .	8	9	14	14	false
+Remember to reverse the position of batteries stored in flashlights to prevent them from accidentally switching on and losing power .	6	6	9	9	true
+The box holds three stiff cardboard tubes , each wrapped in now decaying cellophane .	1	1	5	6	true
+Eight rooms surround a central square room that contains the mortal remains of Bibi Pari .	6	6	11	11	true
+Batteries stored in a discharged state are susceptible to freezing , sulfation and an increased rate of discharge .	0	0	4	5	false
+The detainee is kept in the cell 23 Â½ hours a day .	1	1	6	6	false
+You haven 't experienced true tartness until you 've tasted the jelly inside a passionfruit .	11	11	14	14	false
+A dining room that contains direct access from the kitchen is the most practical , unless the room will exist for fluff purposes only .	1	2	6	6	false
+How can I get rid of the ants in my kitchen without using dangerous pesticides?	7	7	10	10	false
+Among the additional contents of the box were a controller , an audio/video connector , a plug , and quite a few manuals and booklets .	6	6	9	9	true
+But for the family that shares the cooking and clean up duties , the kitchen holds a special nuturing role beyond supplying nutrition for the physical body .	14	14	18	19	false
+The morning session contains a tutorial that aims to address the basic issues necessary for a better understanding of this complicated topic .	1	2	5	5	false
+These are not simply memorable words written on a piece of paper kept in a museum .	11	11	15	15	true
+Rather , the entrails contained mostly apples and corn .	3	3	6	6	true
+About 2000 feet of passageways have been located inside the cave , and about half of that has been mapped .	4	4	10	10	false
+The fruit basket contained apples , oranges and bananas .	1	2	4	4	true
+The contents of the workshop included a discussion on various documents in respect of exports , imports and documents relating to letters of credit .	4	4	7	7	false
+In each house lives a person with a different nationality .	2	2	5	5	false
+Such airships are essentially motorized free balloons and the engines are carried in a car attached to the lower side or bottom of the bag .	9	9	14	14	true
+Once the photon was inside the cloud , the control beam was switched off , allowing the photon to come to a halt inside the dense ensemble of atoms .	2	2	6	6	false
+The contents of the bag included numerous flyers from other conference sponsors and exhibitors and some useful stationery supplies .	4	4	7	7	true
+Because the trench was inside the fenced back yard , he saw no reason to worry about leaving it uncovered .	2	2	6	8	false
+An office that contains plants suggests you 're trying to create an agreeable environment for yourself and others .	1	1	4	4	true
+The bowl contained apples , pears , and oranges .	1	1	3	3	true
+Picric acid is kept in an aqueous solution , which makes it suitable and safe to handle .	0	1	6	7	false
+Close all doors inside the house to slow down fire spread from room to room .	2	2	5	5	false
+We actually put tea in the food whenever possible .	3	3	6	6	false
+Now , I have a plastic bottle that contains alcohol in which I put my artificial eyelashes at night when I take them off , to clean them and keep them safe .	6	6	9	9	true
+After the cashier put the cash in a bag , the robber saw a bottle of scotch that he wanted behind the counter on the shelf .	5	5	8	8	true
+The conventional way to grow bacteria is to inoculate a flask that contains a broth of nutrients .	10	10	14	14	true
+Suppose you were given a bottle that contains 400 grams of a 3 .0% bleach solution .	5	5	14	15	true
+The contents of the questionnaire included the gender and age of the patient , his/her knowledge of the procedure undertaken and the person obtaining consent .	4	4	7	7	false
+Like many recipes for stuffing , the original recipe contained apples , but as apples are a higher carb fruit , I have substituted cranberries which have the dual effect of making the stuffing lower carb than the regular recipe and also adding a little extra seasonal color and flavor .	8	8	10	10	false
+I explained that I was a teacher and that the boxes contained books I was bringing for the students to improve their English .	10	10	12	12	true
+The information on the recorded talks is kept in the database .	1	1	10	10	true
+A new composter is now available from East Sussex County Council which can be kept in the kitchen and will take all organic waste .	2	2	17	17	true
+To repair , use duct tape or caulk to seal gaps in the metal box and between joints and seams in the duct .	10	10	13	14	false
+The kitchen contains basic items such as salt , pepper and olive oil .	1	1	7	7	false
+In particular , we work on devices that take the signal that is carried in a beam of light going through an optical fiber and transfer that signal to another beam of light going through the same fiber .	10	10	16	16	true
+The building contained a large open central space with tables and chairs as well as a nursery and two tearooms .	1	1	5	7	false
+The bag contained books , a cell phone and notepads , but no explosives .	1	1	3	3	true
+The kitchen contained a large stove , a sink , a small table with chairs , and an old sofa that had seen many children and grandchildren tear at its skin .	1	1	5	5	true
+I find it hard to bend and reach and I cannot use the cupboards in my kitchen .	13	13	16	16	false
+So I was looking at the ceiling in my kitchen yelling at God .	6	6	9	9	false
+I 'm looking at one right now and he appears to be very content , despite the fact that he 's trying to sleep in a kitchen that contains a noisy boiler .	26	26	31	31	true
+There was a persistent rumor that the contents of the cornerstone included a liquor bottle that would have had 49 years to age .	10	10	13	14	true
+Conference center has at least one dedicated main conference room that contains a minimum of 1 ,000 square feet and can accommodate flexible seating arrangements .	9	9	17	18	false
+The acid is kept in a level-controlled tank (with a controller and an alarm . in the event of low acid level) .	1	1	7	7	true
+To test this , we placed a kitchen match in the jar instead of the candle , lit the match , screwed on the lid and dropped the jar .	8	8	11	11	true
+The building contained laboratory facilities for conducting spectrochemical , chemical , and mass spectrometric analyses .	1	1	3	4	false
+On the other hand , the information being carried in a high frequency quasi-sinusoidal wave invites comparisons with the auditory system of vertebrates .	6	6	14	14	true
+This is why , not only the contents of the box were a present , but the box itself was as a present .	10	10	13	13	true
+Until 1729 the building contained only the grammar school .	3	3	7	8	false
+Maybe some relationships are best kept in a box .	2	2	8	8	false
+Some inactivated influenza vaccine contains thimerosal , a preservative that contains mercury .	8	8	11	11	false
+The kitchen contains various commercial equipment such as stoves , griddles , deep fryer , and an oven .	1	1	8	8	true

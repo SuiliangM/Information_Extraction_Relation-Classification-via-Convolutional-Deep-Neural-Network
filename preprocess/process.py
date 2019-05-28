@@ -4,7 +4,9 @@
 Preprocess original Sem-eval task8 data
 '''
 
-import json
+from glob import glob
+import os
+import re
 
 
 def process_question(question):
@@ -59,9 +61,121 @@ def process_file(in_filename, out_filename):
     print("Max length: {}".format(max_len))
     print("Max distance: {}".format(max_distance))
 
-def process_2007()
+
+def structure_2007(filename):
+    output = open(filename.replace('raw', 'structured'), 'w')
+    lines = open(filename).readlines()
+
+    block = []
+
+    for line in lines:
+        if line == '\n':
+            if len(block) == 2:
+                block.append('Comment:\n')
+
+            # Block is complete
+            first_line = block[0]
+            first_line = first_line.split()
+            right = ' '.join(first_line[1:])
+            first_line = first_line[0] + '\t' + right + '\n'
+            block[0] = first_line
+
+            
+            second_line = block[1]
+            pattern = re.compile(' = "(false)|(true)"')
+            label = pattern.search(second_line).group()
+            block[1] = label + '\n'
+
+            for item in block:
+                output.write(item)
+            block = []
+            output.write('\n')
+
+        else:
+            block.append(line)
+
+def split_2007(filename):
+    '''
+    Split the 2007 
+    '''
+    lines = open(filename).readlines()
+    train_name = filename.replace('processed', 'split')
+    train_name = train_name.replace('relation-', '')
+    dev_name = train_name.replace('train', 'dev')
+    train_output = open(train_name, 'w')
+    dev_output = open(dev_name, 'w')
+
+    train_output.writelines(lines[:120])
+    dev_output.writelines(lines[120:])
+
+
+def process_embedding(filename, out_path):
+    '''
+    Convert the downloaded embedding file into two files
+    '''
+    lines = open(filename).readlines()
+    out_embedding = open(out_path + '/embeddings.txt', 'w')
+    out_wordlist = open(out_path + '/words.lst', 'w')
+    for line in lines:
+        word = line.split()[0]
+        embed = line.split()[1:]
+        out_wordlist.write(word + '\n')
+        out_embedding.write(" ".join(embed) + '\n')
+
+def binarize_2010(filename, train_test):
+    relations = [[], [], [], [], [], [], [], []]    
+    lines = open(filename).readlines()
+    for line in lines:
+        label = line.split('\t')[-1].strip()
+        line = line.split('\t')
+        if 'Cause-Effect' in label:
+            relations[0].append('\t'.join(line[:-1]) + '\ttrue\n')
+        elif 'Instrument-Agency' in label: 
+            relations[1].append('\t'.join(line[:-1]) + '\ttrue\n')
+        elif 'Product-Producer' in label:
+            relations[2].append('\t'.join(line[:-1]) + '\ttrue\n')
+        elif 'Entity-Origin' in label:
+            relations[3].append('\t'.join(line[:-1]) + '\ttrue\n')
+        elif 'Theme-Tool' in label:
+            relations[4].append('\t'.join(line[:-1]) + '\ttrue\n')
+        elif 'Component-Whole' in label:
+            relations[5].append('\t'.join(line[:-1]) + '\ttrue\n')
+        elif 'Content-Container' in label:
+            relations[6].append('\t'.join(line[:-1]) + '\ttrue\n')
+        elif 'Other' in label:
+            relations[7].append('\t'.join(line[:-1]) + '\tfalse\n')
+            
+    for i, relation in enumerate(relations):
+        output = open('data/2010/bin_raw_2010/{}-{}'.format(train_test, i+1), 'w')
+        output.writelines(relation)
+        output.close()
+
+def merge_bin_2010(filename):
+    '''
+    '''
+    negatives = open('data/2010/bin_raw_2010/test/test-8').readlines()
+    positive = open(filename).readlines()
+    lines = positive + negatives
+    lines = list(set(lines))
+    output = open(filename.replace('bin_raw', 'merge_bin'), 'w')
+    output.writelines(lines)
+    output.close()
+
 
 if __name__ == '__main__':
-    process_file("./data/TRAIN_FILE.TXT", "./data/train.txt")
-    process_file(
-        'SemEval2010_task8_all_data/SemEval2010_task8_testing_keys/TEST_FILE_FULL.TXT', 'data/test.txt')
+    # process_file("./data/TRAIN_FILE.TXT", "./data/train.txt")
+    # process_file(
+    #     'SemEval2010_task8_all_data/SemEval2010_task8_testing_keys/TEST_FILE_FULL.TXT', 'data/test.txt')
+    
+    # for filename in files:
+        # structure_2007(filename)
+        # process_file(filename.replace('raw', 'structured'), filename.replace('structured', 'processed'))
+        # process_file(filename, filename.replace('structured', 'processed'))
+        # split_2007(filename)
+
+    # binarize_2010('data/2010/train.txt', 'train')
+    # binarize_2010('data/2010/test.txt', 'test')
+
+    files = glob("data/2010/bin_raw_2010/test/*")
+    for filename in files:
+        merge_bin_2010(filename)

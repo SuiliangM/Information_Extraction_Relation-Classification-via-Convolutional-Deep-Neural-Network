@@ -1,0 +1,20 @@
+The video sequence is from the movie  'Forrest Gump ' .	1	2	6	6	true
+The transmitter generates the electromagnetic wave , some of which will be incident on the receiver .	1	1	4	5	false
+Supervision is received from a golf supervisor , who reviews work through conferences , reports , and results achieved .	0	0	5	6	false
+The more samples (and therefore means) from the population one takes , the better the population estimate is from the sampling distribution .	15	16	20	21	true
+Any herb can be used in herb butter , but it is best to use bold flavors .	6	6	7	7	false
+But neither of the teens manufactured the fake device , he said .	4	4	7	8	false
+This surgical operation isolates most of the right hemisphere from the left hemisphere .	7	8	11	12	false
+Each year over 2300 scientists from universities , industries and government labs perform research at the NSLS .	4	4	6	6	true
+The rest of the points are awarded proportionally to the distance the ball is from the farthest traveling ball .	12	12	16	18	false
+The homes are from a simpler time , when closets were tiny and bathrooms were few , but the woodwork and stonework are inspiring .	1	1	5	6	false
+About 30 ducks were found dead in Klamath County in the past two days , and officials are investigating whether the deaths are from a cholera outbreak .	21	21	25	26	false
+The man radiated jolliness .	1	1	3	3	false
+A couple of spoonsful would have been mixed with water to create a sweet and tart drink , the fruit providing the flavor and color , the sugar providing the sweetness , and the vinegar providing the tartness .	19	19	24	24	true
+Prepare some beef bouillon and let it cool .	2	2	3	3	true
+The dryer emits air that is regulated close to your body temperature .	1	1	3	3	true
+Where 's the outrage from the sexism crusaders?	3	3	6	0	false
+In America , generations of Portuguese immigrants from the mainland , Azores and Madeira have brought their often-simple but diverse and always tasty cuisine .	6	6	9	9	true
+The dose makes the poison .	1	1	4	4	false
+This is an overview of the viewer from a developer 's perspective .	9	9	11	11	false
+The data presented here are mainly derived from a survey designed by researchers at the Harvard School of Public Health .	1	1	9	9	true

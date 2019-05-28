@@ -1,0 +1,560 @@
+001	"The period of <e1>tumor shrinkage</e1> after <e2>radiation therapy</e2> is often long and varied (mean months)."
+true
+Comment: "tumor shrinkage" -> "shrinkage"
+
+002	"<e1>Habitat degradation</e1> from within <e2>stream channels</e2>, loss of riparian vegetation, and reductions in water quality degrade and also limit the population."
+false
+Comment: "Habitat degradation" -> "degradation"; "stream channels" -> "channels"
+
+003	"Earplugs relieve the <e1>discomfort</e1> from <e2>traveling</e2> with a cold allergy or sinus condition."
+true
+Comment:
+
+004	"We continue to see progress toward a world free of the <e1>daily terror</e1> of <e2>antipersonnel land mines</e2>."
+true
+Comment: "daily terror" -> "terror"; (b) "antipersonnel landmines" -> "land mines"
+
+005	"The Global Warming <e1>segment</e1> starts off with two, cute <e2>anecdotes</e2> about flowers blooming early and aardvarks moving North."
+false
+Comment:
+
+006	"The report links conditions in some of the worst affected localities and the likelihood that dire poverty ?combined with despair and <e1>outrage</e1> over <e2>rampant corruption</e2>, repressive policies, and governments' failure to address local needs ?could lead to outbreaks of localised unrest with the potential to spread into a wider regional conflict."
+true
+Comment: "rampant corruption" -> "corruption"
+
+007	"Literary criticism is the study of literature by means of a microscopic knowledge of the language in which a book is written, of its <e1>growth</e1> from various <e2>roots</e2>, of its stages of development and the factors influencing them, of its condition in the period of this particular composition, of the writer's idiosyncrasies of thought and style in his ripening periods, of the general history and literature of his race, and of the special characteristics of his age and of his contemporary writers."
+false
+Comment:
+
+008	"<e1>Famine</e1> following <e2>drought</e2> has hit the West African savannahs, where there have been other bad droughts, notably the great one of 1972-74."
+true
+Comment:
+
+009	"People in Hawaii might be feeling <e1>aftershocks</e1> from that powerful <e2>earthquake</e2> for weeks."
+true
+Comment:
+
+010	"One newly formed Iraqi battalion is on duty, with scheduled for <e1>activation</e1> by <e2>summer</e2> 2004."
+false
+Comment: Time
+
+011	"<e1>Zinc</e1> is essential for <e2>growth</e2> and cell division."
+true
+Comment:
+
+012	"The typical <e1>flu infection</e1> starts with <e2>fever</e2>, muscular pains, headache and general fatigue."
+false
+Comment: Here ecauses e2; "flu infection" -> "infection"
+
+013	"Apartment residents in Delaware were awarded $million for health problems attributed to <e1>mold growth</e1> from <e2>unrepaired leaks</e2>."
+true
+Comment: (a) "mold growth" -> "growth"; (b) "unrepaired leaks" -> "leaks"
+
+014	"This industry and way of life, however, is in trouble as salmon decline due to <e1>habitat degradation</e1> from <e2>dams</e2>, clearcutting, and overgrazing along streams."
+true
+Comment: "habitat degradation" -> "degradation".
+
+015	"It is widely known that significant reductions of these levels produce pastries with poor lift in the oven and with unacceptable <e1>shrinkage</e1> after <e2>cooling</e2>."
+true
+Comment:
+
+016	"Teens will find a realistic model for improving self-esteem, confronting challenges head on and the possibilities of <e1>achievement</e1> through <e2>perseverance</e2>."
+true
+Comment:
+
+017	"The age of first marriage does not predict <e1>happiness</e1> after <e2>marriage</e2>."
+false
+Comment:
+
+018	"It is simple and ideal when all you want to do is freshen up clothes or smooth out <e1>wrinkles</e1> from <e2>garments</e2> that have been stored away."
+false
+Comment:
+
+019	"As long as a surviving multiplexed copy of the controlfile exists, <e1>recovery</e1> from <e2>loss</e2> of a controlfile is simple."
+false
+Comment:
+
+020	"He predicts that the severe <e1>famine</e1> following the <e2>good years</e2> would require a political and economic reorganization in the country."
+false
+Comment:
+
+021	"The film also features documentary like segments about fishing and about the <e1>evacuation</e1> after the <e2>eruption</e2> of the volcano."
+false
+Comment:
+
+022	"I believe that unless we take this issue seriously, the red squirrel is facing eventual <e1>extinction</e1> from the <e2>woods</e2> of Scotland."
+false
+Comment: location.
+
+023	"There should be no <e1>revenue increase</e1> from the <e2>tax cuts</e2> - except possibly from the cuts in the higher tax rates."
+true
+Comment: "revenue increase" -> "increase"
+
+024	"The following are very basic tips which may help you manage your <e1>anxiety</e1> in the <e2>exam</e2>."
+false
+Comment: Time; the context does not imply that the exam is the cause for the anxiety.
+
+025	"There exists a widespread <e1>controversy</e1> over <e2>stem cell research</e2> that emanates from the techniques used in the creation and usage of stem cells."
+true
+Comment: "stem cell research" -> "research"; can be paraphrased as 'The stem cell research caused a controversy'.
+
+026	"The order reaches the office in minutes, allowing the order staff to start <e1>fulfillment</e1> from <e2>warehouse inventory</e2>."
+false
+Comment: "warehouse inventory" -> "inventory"
+
+027	"Aromatherapy can be used for <e1>stress relief</e1> through <e2>massage</e2> with sedatives like lavender and sweet marjoram."
+true
+Comment: "stress relief" -> "relief".
+
+028	"The findings clearly show a high level of <e1>satisfaction</e1> from <e2>customers</e2> using new cutting-edge retail technology that has led to higher sales."
+false
+Comment:
+
+029	"The resulting <e1>anti-social behaviour</e1> from <e2>alcohol consumption</e2> is an on-going matter that the town and the police continue to address, particularly in the summer months."
+true
+Comment: (a) "anti-social behaviour" -> "behaviour"; (b) "alcohol consumption" -> "consumption"
+
+030	"Complementing the data from PARK, GeoFEST will model the evolution of stress and strain in a detailed simulation of the crust and mantle, potentially helping researchers predict the <e1>deformation</e1> from an <e2>earthquake</e2> or a series of quakes."
+true
+Comment:
+
+031	"Any <e1>injury</e1> from the <e2>neck</e2> to the shoulder of the brachial plexus would leave the arm useless."
+false
+Comment:
+
+032	"It is likely that the <e1>nausea</e1> comes from <e2>abnormal sensations</e2> originating from areas of the brain that are sensing the lack of oxygen."
+true
+Comment: "abnormal sensations" -> "sensation"
+
+033	"That seems to me like an <e1>accusation</e1> out of <e2>ignorance</e2> seeing that you don't even know what my characters name is."
+true
+Comment:
+
+034	"In summer 2000, an Adventist church in Polotsk, Vitebsk Region, was damaged by a <e1>fire</e1> started with <e2>flammable liquids</e2>."
+true
+Comment: "flammable liquids" -> "liquids"
+
+035	"Genuine <e1>joy</e1> comes from profound <e2>spiritual awareness</e2> on life and an absolute clarity of direction, living for a purpose."
+true
+Comment: "spiritual awareness" -> "awareness"
+
+036	"<e1>Ginkgo</e1> is added for <e2>increased circulation</e2> to the reproductive system."
+false
+Comment: this is more an intention/purpose, then a cause-effect relationship; "increased circulation" -> "circulation"
+
+037	"During discussion of the legislation concerns, were raised that the inclusion of <e1>protection</e1> from <e2>exposure</e2> to the sun would place too heavy a burden on a number of smaller companies, especially building firms and small catering concerns, which may have a lot of outside workers."
+false
+Comment:
+
+038	"These characteristics are inconsistent with <e1>observations</e1> from <e2>earthquakes</e2> of comparable distance and magnitude to those that dominate the hazard at Yucca Mountain."
+false
+Comment:
+
+039	"Eye <e1>discomfort</e1> from this <e2>staring effect</e2> is exacerbated by low humidity."
+true
+Comment: "staring effect" -> "effect"
+
+040	"Jane Jacobs has argued that all <e1>economic progress</e1> comes from <e2>urban places</e2>, that cities are the source of economic prosperity, and the role of rural areas inevitably becomes less important as development takes place."
+false
+Comment: "economic progress" -> "progress"; "urban place" -> "place"
+
+041	"He derives great joy and <e1>happiness</e1> from <e2>cycling</e2>."
+true
+Comment:
+
+042	"The <e1>pollution</e1> in rain comes from <e2>mercury air pollution</e2> from coal-fired power plants and other industries."
+true
+Comment: "mercury air pollution" -> "air pollution"
+
+043	"In order for handwashing to be effective, vigorous friction, ample <e1>lather</e1> from <e2>soap</e2>, and thorough rinsing are needed to remove the germs from the hands."
+false
+Comment: Origin-Entity
+
+044	"Alabama has since enacted legislation, allowing <e1>death</e1> by <e2>lethal injection</e2> as an alternative choice to death in the electric chair."
+true
+Comment: "lethal injection" -> "injection".
+
+045	"Gurra Krantz, skipper of the still leading yacht SEB reports some <e1>frustration</e1> after <e2>yesterday's exhilarating rides</e2>."
+false
+Comment:Time ("Yesterdays exhilarating rides" -> "rides").
+
+046	"<e1>Driving</e1> with <e2>sleep deprivation</e2> can have similar effects as driving under the influence."
+false
+Comment: Manner
+
+047	"Sudden <e1>death</e1> from <e2>inhalation</e2> of petroleum distillates is well recognised in misuses of volatile substances."
+true
+Comment:
+
+048	"The good friar was insistent on both celibacy and <e1>abstinence</e1> from <e2>laughter</e2>."
+false
+Comment:
+
+049	"Nausea is the sensation of unease and <e1>discomfort</e1> from the <e2>stomach</e2>, with the sufferers feeling that they may vomit."
+false
+Comment: This is not causation; not even indirect.
+
+050	"And because of a last minute <e1>collapse</e1> from <e2>top</e2> to bottom - what would be and should be a perfect season to this point is just another year."
+false
+Comment:
+
+051	"The randomized hypertensive ABCD study demonstrated a decrease in myocardial infarction with ACE inhibitors and a <e1>decrease</e1> in overall mortality with aggressive <e2>blood pressure control</e2>."
+true
+Comment: "blood pressure control" -> "control "
+
+052	"It was also felt necessary at this time to draw up a similar document, dealing not with the prevention of <e1>marine pollution</e1> by <e2>dumping</e2>, but instead with the prevention of marine pollution by discharges of dangerous substances from land-based sources, watercourses or pipelines."
+true
+Comment: 'by dumping' modifies 'pollution' and not 'prevention'; otherwise, it doesn't make sense; dumping is ambiguous here and other WordNet senses are possible.
+
+053	"Delay and procrastination set you up for <e1>frustration</e1> after <e2>frustration</e2>."
+false
+Comment:
+
+054	"<e1>Continuous improvement</e1> starts with the <e2>measuring</e2> of the process performance, and the instigation of a robust process for reviewing further changes logically and quickly."
+false
+Comment: Time ("Continuous improvement" -> "improvement").
+
+055	"The risks of this procedure include anesthesia complications (especially General), post-operative difficulty breathing, and <e1>sore throat</e1> from <e2>intubation</e2>."
+true
+Comment:
+
+056	"During periods of wide <e1>blood sugar fluctuations</e1> and after any <e2>change</e2> in insulin dose, the blood sugar must also be measured during the night."
+false
+Comment: "blood sugar fluctuations" -> "fluctuations".
+
+057	"Their chemical <e1>activation</e1> by <e2>light</e2> (halogen, plasma, lasers, etc.) enhances their efficiency by reducing exposure time and number of appointments."
+true
+Comment:
+
+058	"The <e1>spiciness</e1> comes from small <e2>capsaicin glands</e2> located between the pepper's outside skin and the white ribs inside."
+true
+Comment: "capsaicin glands" -> "glands"
+
+059	"You can see the <e1>wrinkles</e1> from 'Meredith's'<e2>face</e2> and you can even understand by looking the series that she is really about same age as 'Bailey'."
+false
+Comment:
+
+060	"Someone once said that <e1>progress</e1> comes from <e2>dissatisfaction</e2>."
+true
+Comment: it seems that work to alleviate the dissatisfaction, not the dissatisfaction itself, would cause progress; maybe in indirect cause/metonymy
+
+061	"Ray Parlour shows his <e1>frustration</e1> after Middlesbrough's <e2>defeat</e2>."
+true
+Comment:
+
+062	"If governments were once content to passively realize the <e1>benefits</e1> from <e2>funding basic research</e2>, the determination to be part of the knowledge-based economy has driven OECD countries to extract greater direct benefits from publicly funded research."
+true
+Comment: "funding basic research" -> "research"
+
+063	"The troubled company is still feeling <e1>aftershocks</e1> after its devastating <e2>withdrawal</e2> of the pain medication Vioxx six months ago."
+true
+Comment: figurative use of aftershock not listed in WordNet
+
+064	"Two sides search for the naked truth in the <e1>fight</e1> over a <e2>painting</e2> on display in a Florida shop."
+true
+Comment:
+
+065	"In the months leading up to trade negotiations, estimates of the <e1>economic gains</e1> from <e2>trade liberalization</e2> suddenly become newsworthy."
+true
+Comment: "economic gain" -> "gain", "trade liberalization" -> "liberalization"
+
+066	"The design of the shape of the can ends moreover has a marked effect on their ability to resist <e1>deformation</e1> from <e2>internal pressure</e2>."
+true
+Comment: "internal pressure" -> "pressure"
+
+067	"This understanding is consistent with behavioural studies that have failed to clearly distinguish between people with <e1>drinking</e1> <e2>problems</e2> and others."
+true
+Comment:
+
+068	"Myles and Simpson also identify <e1>defensive behaviour</e1> from <e2>learners</e2> like lashing out verbally or physically or threatening the educators or other learners and withdrawing from others emotionally or physically."
+false
+Comment: "defensive behaviour" -> "behaviour"; "behaviour" and "behavior" are treated as separate words in WordNet with slightly different sense numbers.
+
+069	"In the most common form of such an attack, called ischemic stroke, the <e1>blockage</e1> comes from a <e2>blood clot</e2> that develops in one of the brain's blood vessels."
+true
+Comment:
+
+070	"<e1>Rain</e1> comes from <e2>evaporated seawater</e2>, transferring not just water but the solar energy that took it from the sea."
+false
+Comment: Origin-Entity.
+
+071	"Women may experience <e1>anxiety</e1> from the <e2>time</e2> they first learn about the breast abnormality."
+false
+Comment: Time
+
+072	"Manila radio station DZMM quoted survivors as saying that the <e1>fire</e1> started with an <e2>explosion</e2> in the cargo hold and spread across the ship within minutes."
+true
+Comment:
+
+073	"Saunders felt a resurgence of the <e1>panic</e1> from this <e2>morning</e2> when he'd regained consciousness in the minefield."
+false
+Comment: Time
+
+074	"Thatch is caused by <e1>excessive growth</e1> from <e2>overfertilizing</e2>, by allowing the grass to get too high before mowing, or by incorrect watering."
+true
+Comment: "overfertilizing" is not found in WordNet
+
+075	"At normal room temperatures, <e1>flammable liquids</e1> can give off enough <e2>vapour</e2> to form burnable mixtures with air."
+false
+Comment: "flammable liquids" -> "liquids"
+
+076	"Two years ago, President George W. Bush ordered the <e1>activation</e1> by the <e2>end</e2> of of a system capable of defending the United States against a missile attack by a terrorist group or an unfriendly rogue state such as North Korea."
+false
+Comment:
+
+077	"Most of the <e1>excitement</e1> came from the <e2>anticipation</e2> of winning a nice prize, all for the sum of one dollar."
+true
+Comment:
+
+078	"Anyone seeking <e1>hair reduction</e1> by <e2>laser treatment</e2> should first consult with a dermatologist, says Moore."
+true
+Comment: (a) "hair reduction" -> "reduction"; (b) "laser treatment" -> "treatment"
+
+079	"The check given by Charles V to the advance of the Ottoman power along the African coast made him appear to the world as the liberator of the Christians and the <e1>terror</e1> of the <e2>infidels</e2>, and gave him such prestige that Francis felt obliged to get all the advantage possible out of his alliance."
+false
+Comment: The "infidels" do not cause the terror; Charles V does.
+
+080	"Polystyrene with average molecular weight of 250,000-350,is particularly preferable because it is excellent in prevention of <e1>shrinkage</e1> after high-ratio <e2>expansion</e2>, and in balance of strength and fusing property."
+false
+Comment: Sequence of events.
+
+081	"Although Harry noticed it during exercise, the change that was identified was the difference in muscular <e1>discomfort</e1> from the <e2>beginning</e2> of his training program (riding five miles per day) to his current status two months later."
+false
+Comment:
+
+082	"<e1>Yoga</e1> is fantastic for <e2>increased flexibility</e2>, which is great for cross-training with all the other programs we offer."
+true
+Comment: "increased flexibility" -> "flexibility".
+
+083	"There are three set changes and two intervals which help the <e1>recovery</e1> from <e2>laughter</e2>, but the entertainment is maintained despite the well expected ending."
+false
+Comment:
+
+084	"Polar bears and hippos have joined the ranks of species threatened with <e1>extinction</e1> from <e2>climate change</e2>, unregulated hunting and other dangers created by humans."
+true
+Comment:
+
+085	"It is commonly accepted that <e1>progress</e1> comes from <e2>science</e2>, debate, inference, logic and reasoning."
+true
+Comment:
+
+086	"<e1>Adults</e1> with <e2>sleep deprivation</e2> who listened to soft classical music at bedtime reported a percent improvement in their quality of sleep."
+false
+Comment:
+
+087	"In fact, nobody received a <e1>drinking</e1> <e2>injury</e2> the whole weekend."
+true
+Comment:
+
+088	"<e1>Surgery</e1> after <e2>radiation chemotherapy</e2> is an effective local treatment, which is able to significantly increase local tumor control compared to radiation chemotherapy only."
+false
+Comment: Time; "radiation chemotherapy" -> "chemotherapy"
+
+089	"In the event of an <e1>evacuation</e1> after normal <e2>business hours</e2>, the on-duty Security Officer and maintenance personnel will be responsible for the notification and evacuation of occupants of all buildings."
+false
+Comment: Time; "business hours" -> "hours"
+
+090	"Hand creams counteract <e1>dryness</e1> from <e2>exposure</e2> to wind, sun, and detergents."
+true
+Comment:
+
+091	"In a departure from previous liftoffs, ground and aircraft cameras monitored Discovery for possible <e1>damage</e1> from falling <e2>debris</e2>."
+true
+Comment:
+
+092	"Craig expressed his <e1>frustration</e1> after Monday's <e2>meeting</e2>."
+false
+Comment: The sentences does not entail that the frustration was caused by the meeting;
+
+093	"Companies face big <e1>risk</e1> from <e2>loss</e2> of key employees."
+true
+Comment:
+
+094	"Ancient pagan traditions used <e1>famine</e1> following <e2>feast</e2> as a way of revealing truth."
+false
+Comment:
+
+095	"'The Incredible Shrinking Man' follows Matheson's novel and effectively captures the <e1>terror</e1> of the <e2>protagonist</e2> as he shrinks to oblivion."
+false
+Comment:
+
+096	"Clinton Portis, who missed last week's game against Dallas because of a <e1>shoulder injury</e1> from the <e2>preseason</e2>, rushed for yards on attempts to become the fifth-fastest player to reach the 6,000-yard mark in his career."
+false
+Comment: (a) Time"; (b) shoulder injury" -> "injury"
+
+097	"This daily assault of inflammation in their digestive system, plus the <e1>inflammation</e1> from your <e2>joints</e2> and an overworked immune system and excess weight can easily exceed the amount of inflammation your body can effectively handle."
+false
+Comment:
+
+098	"However, some may be able to perform minutes of moderate-intensity exercise two to three hours after breakfast without a high risk of hypoglycemia, despite slightly <e1>higher insulin levels</e1> after <e2>eating</e2>."
+true
+Comment: "higher insulin levels" -> "levels"
+
+099	"The moisturizers' primary function is to keep skin moist, minimize <e1>wrinkles</e1> from <e2>dryness</e2>, smoothe and soften skin, and to deliver other ingredients, like sunscreen, that benefit the skin."
+true
+Comment:
+
+100	"As a result of direct persecution, habitat loss and <e1>habitat degradation</e1> from <e2>1950s</e2> until 1990s, brown bear population has decreased so much."
+false
+Comment: "habitat degradation" -> "degradation".
+
+101	"<e1>Inhibition</e1> through <e2>synaptic depression</e2> is unlike the previous forms of inhibition in that it turns on more slowly and thus acts as delayed negative feedback."
+true
+Comment: "synaptic depression" -> "depression"
+
+102	"A city nightclub has had an ambitious expansion plan blocked over concerns about <e1>unruly behaviour</e1> from <e2>drunken revellers</e2>."
+false
+Comment: "unruly behaviour" -> "behaviour"
+
+103	"However, these animals are found in the intertidal zone, inside tide pools, where salinity can increase due to <e1>evaporation</e1> from <e2>exposure</e2> to intense sunshine, or decrease from heavy rainfall or fresh water runoffs."
+true
+Comment:
+
+104	"There were the years of constant fatigue and shortness of breath, the heart attack at age 11, the <e1>collapse</e1> from <e2>exhaustion</e2> on her high school graduation night."
+true
+Comment:
+
+105	"<e1>Depression</e1> after <e2>heart attack</e2> increases future risk."
+false
+Comment:
+
+106	"Examples include the <e1>exclusion</e1> of certain benefits from <e2>funding standards</e2> and the exclusion of entire plans from certain funding requirements."
+false
+Comment: "funding standards" -> "standards"
+
+107	"This program will be an effective step to mitigate <e1>damage</e1> from <e2>hurricanes</e2> - but let us not forget this is a retroactive measure."
+true
+Comment:
+
+108	"I know another <e1>drinking</e1> <e2>accident</e2> happened in the Gallup area the other day, which is plagued by drinking and driving accidents."
+false
+Comment:
+
+109	"<e1>Scientific progress</e1> comes from <e2>breakthroughs</e2> and breakthroughs by their very nature are unpredictable and surprising in their impact."
+true
+Comment: "Scientific progress" -> "progress"
+
+110	"Declines of great gray owls in California may be due to <e1>habitat degradation</e1> from <e2>logging</e2>, grazing, and development."
+true
+Comment: "habitat degradation" -> "degradation"
+
+111	"That year, summer students at the VLA made the first discovery of <e1>radio emission</e1> from a brown <e2>dwarf</e2>."
+false
+Comment: Definition of "dwarf" as a type of star is not listed in WordNet.
+
+112	"Parents also experience <e1>anxiety</e1> from <e2>fear</e2> of the suffering of their child and worry about an uncertain outcome."
+true
+Comment:
+
+113	"Kids love watching the stages of <e1>growth</e1> from <e2>caterpillar</e2> to cocoon to butterfly in this easy reliable kit."
+false
+Comment: enumeration; examples
+
+114	"Grubs tend to cause significant <e1>damage</e1> from <e2>autumn</e2> to spring by which time the larvae are becoming fully grown."
+false
+Comment:
+
+115	"<e1>Cooperation</e1> through <e2>physical activity</e2> promotes important life skills."
+false
+Comment: "physical activity" -> "activity"
+
+116	"Villagers live in constant <e1>terror</e1> of <e2>indiscriminate gunfire</e2> which fills the nights throughout Chechnya."
+true
+Comment: "indiscriminate gunfire" -> "gunfire"
+
+117	"From our point of view, the <e1>moral outrage</e1> over Manet's <e2>painting</e2> seems hypocritical, if not utterly inexplicable."
+true
+Comment: "moral outrage" -> "outrage".
+
+118	"This lamp can cause serious skin burn and <e1>eye inflammation</e1> from <e2>shortwave ultraviolet radiation</e2> if outer envelope of the lamp is broken or punctured."
+true
+Comment: (1) "eye inflammation" -> "inflammation"; (2) "shortwave ultraviolet radiation" -> "ultraviolet radiation"
+
+119	"St John's wort was at least as effective as paroxetine in reducing severity of <e1>depression</e1> after six <e2>weeks</e2>."
+false
+Comment: Time
+
+120	"A tear or a crease changes the character of the surface more drastically than a mere <e1>deformation</e1> from <e2>roundness</e2>."
+true
+Comment:
+
+121	"In this study we examined <e1>mood alterations</e1> through <e2>physical activity</e2> and other interventions."
+false
+Comment: (a) Purpose-Tool; (b) "mood alterations" -> "alterations"; (c) "physical activity" -> "activity"
+
+122	"Anemia, fatigue or <e1>drowsiness</e1> after <e2>meals</e2> may indicate that parasites are competing with the body for nutrients."
+false
+Comment:
+
+123	"<e1>Waves</e1> from <e2>earthquakes</e2> travel at different velocities through different media."
+true
+Comment:
+
+124	"<e1>Insulin resistance</e1> with <e2>sleep deprivation</e2> has been reported in a laboratory study of young, healthy volunteers."
+false
+Comment: (a) "Insulin resistance" -> "resistance", (b) "sleep deprivation" -> "deprivation".
+
+125	"<e1>Energy expenditure</e1> through <e2>physical activity</e2> is a key component in the prevention and treatment of overweight and obesity."
+true
+Comment: (a) "Energy expenditure" -> "expenditure"; (b) "physical activity" -> "activity"
+
+126	"You can do a simple experiment which shows how important <e1>sun</e1> is for <e2>growth</e2> by planting a seed and putting it in a closet."
+false
+Comment: The sun is important, but its real role is unknown.
+
+127	"In addition, scientists may have a number of potentially useful targets to prevent and treat this lethal tumour because of the findings that NOXmediated <e1>overproduction</e1> of hydrogen peroxide is responsible for increased <e2>growth</e2> and decreased death of cancer cells."
+true
+Comment:
+
+128	"The controlled environment <e1>facility</e1> is for <e2>growth</e2> of experimental material only."
+false
+Comment: Purpose; none of the senses listed for "growth" seems to match precisely
+
+129	"This can be caused by hepatitis, alcoholic liver disease, <e1>liver inflammation</e1> from <e2>medications</e2>, fatty liver, liver tumors, or heart failure."
+true
+Comment: "liver inflammation" -> "inflammation"
+
+130	"It has opened a sacred refuge for every lie and wrong; no wildest form of which could fail to find some precedent within these Hebrew histories, which tell the story of a people's upward <e1>growth</e1> from <e2>savagery</e2>."
+false
+Comment:
+
+131	"Six glowing disks await <e1>activation</e1> by the <e2>footsteps</e2> of desert wanderers."
+true
+Comment:
+
+132	"Tub drains clog up with hair and the <e1>grease</e1> from <e2>soap</e2> and must be cleaned out occasionally."
+false
+Comment: Origin-Entity
+
+133	"Thailand has been bracing itself for a <e1>downturn</e1> in the wake of the <e2>bombs</e2>, especially in the tourist sector."
+true
+Comment:
+
+134	"To the shock of international observers, the Libyan court found the medics guilty last year and sentenced them to <e1>death</e1> by <e2>firing squad</e2>."
+false
+Comment:
+
+135	"This prescription drug alleviates <e1>panic</e1> from <e2>claustrophobia</e2> and is also very handy for airplane rides and in case of broken-down subway cars or elevators."
+true
+Comment:
+
+136	"Everybody in the region experienced the <e1>tremors</e1> after <e2>midnight</e2>."
+false
+Comment:
+
+137	"Deposits grew 20% with particularly good <e1>growth</e1> from <e2>corporates</e2>."
+false
+Comment: "corporate" not found in WordNet, adjective senses only.
+
+138	"The studies revealed that <e1>skin irritation</e1> from <e2>soaps</e2>, inaccessibility to supplies or sinks, and insufficient time to wash hands between every patient care contact were the main reasons given by healthcare workers for lack of handwashing compliance."
+true
+Comment: "skin irritation" -> "irritation"
+
+139	"<e1>Infection</e1> starts with <e2>manual execution</e2> of the binary."
+true
+Comment: "manual execution" -> "execution"
+
+140	"Anthony finds inspiration in a beautiful, enigmatic older woman who teaches him to follow his heart and find <e1>happiness</e1> through <e2>swing dancing</e2>."
+true
+Comment: "swing dancing" -> "dancing"
+

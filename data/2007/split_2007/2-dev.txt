@@ -1,0 +1,20 @@
+The third observation was made with the Echellette spectrograph .	2	2	8	8	false
+This is the same basic mechanism at work in a vacuum cleaner , though the execution is a bit more complicated .	5	5	10	11	false
+If the same sari is contracted out to a master weaver who owns a loom but employs two adults and two children to work on it , the adults would get Rs .400 each and the children Rs .100 each .	10	10	14	14	true
+At that point the patient grabbed the arm of the dentist to forcibly pull the drill out of his mouth .	4	4	15	15	false
+Unless the public authority knows that the applicant has used a pseudonym , it will be difficult to refuse a request on that ground .	7	7	11	11	true
+Providence had sent the old man into the world with a chisel in his hand .	5	5	11	11	false
+When the power goes , the dentist quizzically raises the drill , and examines it .	6	6	10	10	false
+It seemed to be a regular rule that , whenever a horse stumbled the rider fell off instantly .	11	11	14	14	true
+Electron microscopes are scientific instruments that use a beam of highly energetic electrons to examine objects on a very fine scale .	0	1	8	8	true
+Cuban ballplayers wield a bigger policy bat .	1	1	5	6	true
+The hairdresser took his scissors and held up a coil of hair .	1	1	4	4	true
+A goal is like a mountain outcropping to which a climber throws a grappling hook and pulls themselves up .	10	10	13	14	true
+The quartz sample tube with polyradical residue was cut with diamond knife to the size that fit into the Teflon digestion vessel .	3	3	11	11	false
+A sewing machine is a mechanical (or electromechanical) device that joins fabric using thread .	8	8	13	13	true
+Original sculptures were carved with a chainsaw .	1	1	6	6	false
+Before the barber takes his scissors out , family , friends and rabbis take turns snipping .	2	2	5	5	false
+A gasoline engine powers a hydraulic drive train that provides torque at all six wheels .	2	2	7	7	false
+The authors found that the peak rowing force exerted on the oar blade increased slowly , but quadratically , with stroke rate .	6	7	11	12	false
+The interpretation was made using the Huynh-Feldt adjusted results .	1	1	8	8	false
+The notion of a backprojection was used in that section to characterize the set of states that can reach another set of states in one stage .	1	1	9	9	false

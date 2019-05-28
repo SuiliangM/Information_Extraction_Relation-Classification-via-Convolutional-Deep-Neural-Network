@@ -1,0 +1,140 @@
+The physician bill is from the physician who provided your care during your hospital stay or the physician who read and interpreted your test results .	1	2	6	6	false
+How can you prove that a gas takes up space?	6	6	9	0	false
+Data managers and vendors learned the value of sharing and reusing resources from a common repository decades ago .	11	11	14	15	false
+She said that he described the meeting with her as an exception , since  'he does not normally have meetings directly with engineers from the regions . '	23	23	26	26	true
+Cinnamon oil is distilled from bark chips and used to alleviate stomach upsets .	0	1	5	6	true
+The move from binary access (yes or no) to fine-grained authorization betrays a shift in mindset: from a defensible perimeter to a qualifier that identifies who can access what room .	1	1	3	4	false
+The person providing the alibi could be the culprit and would be providing a fabricated alibi .	1	1	4	4	false
+Over the top of the hill was a fairly-decent refugee camp from a war that has never really ended .	8	10	13	13	false
+An opening is present in the diaphragm (the muscle that separates the chest cavity from the abdominal cavity) .	12	13	16	0	false
+For projects submitted at national level , the volunteer is sent by a sending organization legally established in his/her country of residence .	8	8	13	14	false
+You move the direction the mouse is from the crosshair .	5	5	9	9	false
+If the cited document is from the informative bibliography , the bibliographic number should be provided in the text and enclosed with brackets .	2	3	7	8	true
+When Josh visits the Tatums , Josh meets his blonde haired twin cousin and two beautiful country cousins .	16	16	17	17	true
+The challenges are being addressed from a manufacturing standpoint rather than ICT solutions that could answer them .	1	1	7	8	false
+It 's unfortunate you didn 't try a potato vodka .	8	8	9	9	true
+The tests are generated randomly from a bank of questions developed for each module .	1	1	7	7	true
+The algorithm generates provable primes rather than only probable primes and is nevertheless faster than the known algorithms based on pseudo-primality .	1	1	3	4	false
+Suddenly a nurse takes off her familiar loose-fitting clothes , and dresses her in clothes , which fit her more closely .	2	2	5	8	false
+The guarantees so painfully obtained by formal verification of the source program are useless if the compiler generates wrong code .	16	16	18	19	false
+Not sure what brand of model it came from but the wings are from a trashed plane my buddy had .	11	11	15	16	false
+After successful completion of the comprehensives , the candidate writes a dissertation proposal .	8	8	11	12	false
+The construction gives a refinement of Nori 's argument in the case of a self-product of a curve .	1	1	4	4	false
+It often becomes necessary to delete objects from the chart during the course of monitoring system performance .	6	6	9	9	false
+First , the sound radiated from a surface simulating a two-dimensional monopole is calculated using an unstructured mesh .	3	3	7	7	false
+The date for final payment is shown on the confirmation invoice .	9	9	10	10	false
+The taste is from the ginseng , not alcohol .	1	1	5	5	true
+Find the infinitive from the participle .	2	2	5	5	false
+Most cane sugar comes from countries with warm climates , such as Brazil , Pakistan , India , China and Australia .	1	1	2	2	true
+The following are verbatim excerpts from a lengthy article .	3	4	7	8	true
+The systolic murmur radiated to both carotid arteries .	1	2	5	7	false
+From the diagrams of DaVinci to Hooke 's microscopic bestiary , the beaks of Darwin 's finches , Rosalind Franklin 's x-rays or the latest photographic marvels retrieved from the remotest galactic outback , visualization of research has a long and literally illustrious history .	24	26	30	32	true
+A pop-up roll cage and active headrests aim to protect occupants during a rollover , and the floorboard is made from bamboo and aluminum .	17	17	21	21	false
+These early Bristol recordings laid the groundwork for much of the country music that followed .	11	11	12	12	false
+The curricular requirements for an engineering degree can be satisfied in four years of study by completing 14 to 18 credits of work each semester , but many students deviate from the ideal curricula presented in a later section of this bulletin .	28	28	32	33	false
+He was a young refugee on the run from a nation at war .	3	4	10	10	true
+They are taking the brains from babies .	4	4	6	6	false
+Eventually the company manufactured the machines .	2	2	5	5	false
+By the early  '90s , Indian entrepreneurs bought a majority of the properties and flourished with the new immigrants from the subcontinent .	19	19	22	22	true
+The mesopause separates the mesosphere from the thermosphere .	4	4	7	7	false
+Beauty had scarcely uttered these words when the castle radiated with light .	8	8	11	11	false
+Effective canola production requires hands-on involvement with the crop .	1	1	2	2	false
+Download all the images from a website with a single click!	3	3	6	6	true
+The bytecodes compiled from a nonoptimized control structure are illustrated by the following hypothetical method in Collection .	1	1	5	7	true
+Recruiting talented computer scientists from underrepresented communities is important to current and future workforce needs of the Computation Directorate as well as the Laboratory as a whole .	1	3	5	6	false
+Select the appropriate government agency from the pull-down list , add comments in the comment box , and select the Submit button .	2	4	7	8	false
+The email is received from a wealthy , dying person wanting to get their money out of the country .	1	1	6	9	false
+The backup vocals are from a rather talented female , Stephanie Eitel .	1	2	6	8	false
+With five of the six classes being a single credit hour and the sixth being three credit hours of capstone design , sophomores , juniors , and seniors work directly with medical doctors , nurses , graduate students , Ph .D . 's , and engineers from the medical industry .	45	45	48	49	false
+Learning to change your vehicle 's engine oil can save you time and money .	6	6	7	7	false
+The light in the background is from the sunrise .	1	1	8	8	false
+The basement carpeting is made from recycled plastic pop bottles , and the underpad was once automobile tires .	1	2	6	9	true
+In Europe the fuel is distilled from canola oil .	3	3	7	8	true
+Include a note in the  'Comments ' field of the purchase requisition stating that the services are being obtained from a nonresident alien .	16	16	22	23	false
+They understand the stakes from a personal perspective , as well , since the extremists have tried to assassinate them .	3	3	6	7	false
+When deliberations began , the crowd of people jamming the hallways radiated optimism .	5	5	12	12	false
+We 're always looking for feedback from readers and articles to highlight .	5	5	7	7	false
+Is it really possible to build the tree from a database?	7	7	10	0	true
+Fruit juice has all the fruit sugar and none of the fruit fiber , and only some of the fruit nutrients .	5	5	6	6	true
+Does the product emit radiation?	2	2	4	0	false
+A couple of spoonsful would have been mixed with water to create a sweet and tart drink , the fruit providing the flavor and color , the sugar providing the sweetness , and the vinegar providing the tartness .	27	27	30	30	false
+Now if the Bagger can just get some popcorn from room service , he 'll be all set .	8	8	10	11	false
+Orpheus falls in love with the country girl for no apparent reason save her name and beauty .	6	6	7	7	true
+If the notice is sent by fax , the notice is not deemed received until 3 days after faxing it .	2	2	6	6	false
+This is the winning sand castle from the Castlemania contest .	3	5	9	9	false
+The customers are happy and the marketer generates more income from the sales of his vehicles - everyone wins .	6	6	8	9	false
+To prevent students from informing their peers what questions are in the quiz , the questions are randomly selected from a large , pre-prepared question bank .	2	2	4	4	false
+The colours were similarly derived from the style-sheet .	1	1	7	7	true
+The outer shell is made from anodized aluminum .	1	2	6	7	false
+Sunflower oil is obtained by extracting oil from sunflower seeds .	0	0	1	1	true
+The word naughtiness is derived from a word meaning worthless .	2	2	7	7	true
+So you are not only sharing the speaker information , but you are also sharing the audio from the event quickly and easily .	16	16	19	19	false
+Lowering your blood sugar is the key to managing diabetes .	2	2	3	3	true
+The 3 km long beach extends from the mouth of the Oro River in the west , to the cliffs of Point Caramonal to the southeast .	4	4	8	8	false
+On the other hand , gin is distilled from a neutral grain spirit , which is then infused with juniper and a host of other botanicals .	5	5	10	12	true
+What did the residents and scientists learn from the Krakatau explosion?	5	5	10	0	false
+Where credit is granted , the supplier 's invoice will be payable within 30 days .	6	6	8	8	false
+It seems quite clear , therefore , that the claimant 's allegation of a lung condition is not substantiated by any of the reporting physicians of record .	9	9	11	11	false
+Retailers should report the income from a coupon 's face value and its related handling fee at the time the coupon is received from the customer .	20	20	25	25	false
+Different from the curry source , chicken bouillon is mainly distilled from chicken .	6	7	12	12	true
+When the invoice is received from a vendor , you should verify that you have only been charged for goods or services that were ordered and received .	2	2	7	7	false
+The clear spirit is distilled from fresh grain .	1	2	6	7	true
+I 'm assuming that the criticism is from the publisher side .	5	5	9	10	false
+The flavour and colour depend on the plants from which the bees manufactured the nectar .	11	11	14	14	false
+This is assuming that the dividend is received from a treaty country .	5	5	10	11	true
+I think people really do themselves a disservice when they get their news from only one source .	12	12	16	16	true
+The transition from dictatorship to democracy will take time , but it is worth every effort .	1	1	3	3	false
+The signal is received from a known direction .	1	1	6	7	true
+We want ideas to save our planet , to save the planet from the imperialist threat .	11	11	14	15	false
+The commission merely implements the contracts , shielding the major party candidates from public criticism .	9	11	13	14	false
+The above advertisement is from the server provider not from me .	1	2	6	7	false
+This view from the inside is from the bridge that spans Atherton Street .	1	1	8	8	true
+The discoverer writes a short citation explaining the reasons for assigning the name .	1	1	4	5	false
+The quotation is from the preface to the fourth edition .	1	1	5	5	true
+The pollen is derived from a podocarp/broadleaved forest , which probably . covered both the alluvial flats and sides of the valley .	1	1	7	7	true
+He went on to examine the theory from a risk assessment perspective .	6	6	9	11	false
+Chicken bouillon can be obtained in three different forms , either liquid , powder or in cubes .	0	0	1	1	true
+The Corel data set is relatively simple because the annotations are nouns selected from a relatively small vocabulary .	11	11	15	17	true
+Almond butter is available in many natural and whole food stores .	0	0	1	1	true
+Avocado butter is a very rich , moisturizing treatment for the hair and skin , and it has some natural sunscreen properties .	0	0	1	1	true
+She opened a fridge in the side of the door and got out a blueberry vodka .	14	14	15	15	true
+The sauce is made from soybean flour , chiles , red beans , and many other spices .	1	1	5	6	true
+In contrast , clay-textured soils are more difficult to prepare a canola seedbed because the clods can be too large when worked wet , and they tend to crust once worked to a fine seedbed .	11	11	12	12	false
+The following translation is from the website of Sanzinsoo .	1	2	6	6	true
+The remarkably comprehensive 32-page 2004 Memorandum of Understanding prohibited the candidates from questioning each other , limited rebuttals to a mere 30 seconds , barred direct follow-up questions and entirely prohibited surrebuttals .	10	10	12	12	false
+Combine strawberries and powder sugar and mix well .	3	3	4	4	false
+A blood alcohol level of  .08 or higher will result in a DUI arrest .	1	1	2	2	false
+Short-term disability and long-term disability benefits are available at no cost to USTelecom employees .	4	4	5	5	false
+Canola oil is a versatile , neutral-tasting oil that is very low in saturated fat .	0	0	1	1	true
+In any case , we found no indications that fish oil would harm patients .	9	9	10	10	true
+The ball is retrieved from the hedge .	1	1	6	6	true
+The data are derived primarily from a three-nation survey conducted for the Harvard School of Public Health and The Robert Wood Johnson Foundation by Louis Harris and Associates and its international affiliates between 10 June and 14 September 1994 .	1	1	7	8	true
+The hotel is in the style of a country lodge and only has 18 rooms .	8	8	9	9	false
+We will reposition ourselves and our events to attract scientists from complementary disciplines .	9	9	11	12	false
+The image is from the poster  'Selling Counterfeit Products is Illegal ' .	1	1	5	5	false
+Tom plans to continue to live the country life as he grows older .	7	7	8	8	false
+The following advice is distilled from builders and first-hand experience .	1	2	6	6	false
+The first quote is from the Ginger Meggs cartoon .	1	2	8	8	true
+Unlike a hard-copy book (at an even higher price) , this one purchase ensures you will be up to date with all future releases of the electronic book .	2	2	3	3	false
+Assuming that the data are from a multivariate normal distribution , data augmentation is applied to Bayesian inference with missing data by repeating a series of imputation and posterior steps .	3	3	7	9	true
+This Appalachian region had been settled by emigrants from the lowlands .	7	7	10	10	true
+The video sequence is from the movie  'Forrest Gump ' .	1	2	6	6	true
+The transmitter generates the electromagnetic wave , some of which will be incident on the receiver .	1	1	4	5	false
+Supervision is received from a golf supervisor , who reviews work through conferences , reports , and results achieved .	0	0	5	6	false
+The more samples (and therefore means) from the population one takes , the better the population estimate is from the sampling distribution .	15	16	20	21	true
+Any herb can be used in herb butter , but it is best to use bold flavors .	6	6	7	7	false
+But neither of the teens manufactured the fake device , he said .	4	4	7	8	false
+This surgical operation isolates most of the right hemisphere from the left hemisphere .	7	8	11	12	false
+Each year over 2300 scientists from universities , industries and government labs perform research at the NSLS .	4	4	6	6	true
+The rest of the points are awarded proportionally to the distance the ball is from the farthest traveling ball .	12	12	16	18	false
+The homes are from a simpler time , when closets were tiny and bathrooms were few , but the woodwork and stonework are inspiring .	1	1	5	6	false
+About 30 ducks were found dead in Klamath County in the past two days , and officials are investigating whether the deaths are from a cholera outbreak .	21	21	25	26	false
+The man radiated jolliness .	1	1	3	3	false
+A couple of spoonsful would have been mixed with water to create a sweet and tart drink , the fruit providing the flavor and color , the sugar providing the sweetness , and the vinegar providing the tartness .	19	19	24	24	true
+Prepare some beef bouillon and let it cool .	2	2	3	3	true
+The dryer emits air that is regulated close to your body temperature .	1	1	3	3	true
+Where 's the outrage from the sexism crusaders?	3	3	6	0	false
+In America , generations of Portuguese immigrants from the mainland , Azores and Madeira have brought their often-simple but diverse and always tasty cuisine .	6	6	9	9	true
+The dose makes the poison .	1	1	4	4	false
+This is an overview of the viewer from a developer 's perspective .	9	9	11	11	false
+The data presented here are mainly derived from a survey designed by researchers at the Harvard School of Public Health .	1	1	9	9	true

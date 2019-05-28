@@ -1,7 +1,8 @@
 # coding=utf-8
+import argparse
+
 import numpy as np
 import torch
-
 
 def load_data(filename):
     '''
@@ -52,24 +53,25 @@ def get_args():
     # Default parameters
     parser = argparse.ArgumentParser("CNN")
     parser.add_argument("--dim_posidx", type=int, default=5)
-    parser.add_argument("--dc", type=int, default=32)
+    parser.add_argument("--dim_conv", type=int, default=32)
     parser.add_argument("--lr", type=float, default=0.001)
     parser.add_argument("--seq_len", type=int, default=120)
     parser.add_argument("--vac_len_rel", type=int, default=19)
-    parser.add_argument("--nepoch", type=int, default=100)
+    parser.add_argument("--vac_len_pos", type=int, default=122)
+    parser.add_argument("--nepoch", type=int, default=20)
     parser.add_argument("--num_workers", type=int, default=4)
-    parser.add_argument("--eval_every", type=int, default=10)
+    parser.add_argument("--eval_every", type=int, default=1)
     parser.add_argument("--dropout_rate", type=float, default=0.4)
     parser.add_argument("--batch_size", type=int, default=128)
     parser.add_argument("--kernel_sizes", type=str, default="3,4,5")
     parser.add_argument('--gpu', type=int, default=0)
-    parser.add_argument('--train_filename', default='./data/train.txt')
-    parser.add_argument('--test_filename', default='./data/test.txt')
+    parser.add_argument('--train_filename', default='data/2010/merge_bin_2010/train/train-1')
+    parser.add_argument('--test_filename', default='data/2010/merge_bin_2010/test/test-1')
     parser.add_argument('--model_file', default='./cnn.pt')
     parser.add_argument('--embedding_filename',
-                        default='./data/embeddings.txt')
+                        default='./embeddings/100/embeddings.txt')
     parser.add_argument('--embedding_wordlist_filename',
-                        default='./data/words.lst')
+                        default='./embeddings/100/words.lst')
 
     args = parser.parse_args()
     args.kernel_sizes = list(map(int, args.kernel_sizes.split(',')))
@@ -78,8 +80,21 @@ def get_args():
 
 
 def accuracy(preds, labels):
-    total = preds.size(0)
+    n = preds.size(0)
     preds = torch.max(preds, dim=1)[1]
     correct = (preds == labels).sum()
-    acc = correct.cpu().item() / total
+    acc = correct.cpu().item() / n
     return acc
+
+def F1(preds, labels):
+    n = preds.size(0)
+    preds = torch.max(preds, dim=1)[1]
+
+    correct = (preds == labels).sum()
+    prediction_true = preds.sum()
+    all_true = labels.sum()
+
+    precision = correct / prediction_true
+    recall = correct / all_true
+    f1 = 2 * precision * recall / (precision + recall)
+    return f1

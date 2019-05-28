@@ -1,0 +1,140 @@
+Immediately after the court is opened , the judge removes his wig and counsel are expected to follow suit .	8	8	11	11	false
+Well , this footballer kicked the ball the hardest he could and hit me .	3	3	6	6	true
+A man struck my video camera with a hammer while I accompanied a German film crew in Clearwater .	1	1	8	8	true
+A moat keeps the enemy at bay .	1	1	4	4	false
+The astronauts used the orbiter boom sensor system mounted on the end of the shuttle 's robotic arm .	1	1	7	7	true
+In converting a tree into thick planks , the saw causes a waste of a very small fractional part .	9	9	12	12	false
+The tailor left his scissors on a wall below his balcony .	1	1	4	4	false
+A raindrop keeps the same shape to a reasonable approximation all the time it is falling .	1	1	5	5	false
+On October 28 , 2003 , a worker was using a hammer to tap the arms of a truck 's cabstand into a vertical position when the cabstand 's arms collapsed in an unintended opposite direction causing the cab to slide off the stand onto the worker 's arm .	7	7	11	11	true
+You should place the awl or screwdriver underneath the hinge , with the pointy end touching the end of the bolt or screw .	6	6	9	9	false
+The diener takes a large scalpel and makes the incision in the trunk .	1	1	5	5	true
+The judge hesitates , gavel poised , shooting them a warning look .	1	1	4	4	true
+The test is made by inserting the end of a jimmy or other burglar 's tool and endeavouring to produce impressions similar to those which have been found on doors or windows .	10	10	13	13	true
+A second aspect of the invention provides apparatuses for indicating the position of an oar during rowing .	14	14	16	16	false
+They will cast you out of the net like any fisherman looking for a certain fish .	7	7	10	10	true
+Most people will use a paddle to propel their canoe .	5	5	9	9	false
+Our powered scissors effortlessly cut fabrics , gift wrap , vinyl and much more!	2	2	5	5	false
+A star footballer can barely touch the ball for 90 minutes , then suddenly produce five seconds of genius that decides the game .	2	2	7	7	true
+The small knife assemblies are widely used for cutting various strips of flexible materials .	3	3	10	10	false
+Francisco Garcia Lorca sees the horse carrying the rider , against his will , to his death .	5	5	8	8	true
+The patient had crushed a pencil with this toe about 30 years previously .	1	1	8	8	true
+Mechanisms that incorporate external compression , limb elevation , exercise , and even a pump to improve venous drainage may be beneficial .	14	14	18	18	true
+Touch sliding keyboard offers keyless typing .	2	2	5	5	false
+The acts of terror the world has witnessed have welded a bond among freedom-loving nations .	1	1	11	11	false
+I heard of horror stories about a needle staying in the tissue after injection , it detached from a syringe after a nurse completed the injection and tried to withdraw the needle .	19	19	22	22	true
+The drill enables the dentist to accomplish these procedures quickly and reduces the trauma to oral tissues .	1	1	4	4	true
+The victim , who was positioned underneath the conveyor , was using a hammer to adjust the return roller .	1	1	13	13	true
+A gift annuity combines a gift with an investment .	1	2	5	5	false
+It is entirely possible to sail a canoe using a paddle to steer .	7	7	10	10	false
+The sledgehammer can apply more impulse than other hammers due to its large size .	1	1	5	5	false
+With its non-slip , ambidextrous grip , the peeler glides effortlessly through foods .	8	8	12	12	false
+I 'm running a charity that helps the poorest school libraries in the U .S .	4	4	10	10	true
+When the taxi driver stopped his car and got out , the two people ran up the street toward downtown Potsdam .	2	3	6	6	true
+On this oval porthole , a lace drape keeps the bathroom private while showing off the shapely window and letting in light .	7	7	10	10	false
+Special construction and a rubberized trim helps the handset stand up to everyday wear-and-tear , and even occasional dropping .	4	5	8	8	true
+The actor played a psychopathic preacher with a restrained malice .	1	1	9	9	false
+It is noteworthy that Peacham 's emblem has a hunter chasing the ermine with a spear and dogs .	9	9	15	15	true
+The corbel was carved with a contorted face .	1	1	7	7	false
+Calendar is cut off with some Firefox extensions that use the statusbar .	0	0	7	7	false
+Thieves used a blowtorch and bolt cutters to force their way through a fenced area topped with razor wire .	0	0	3	3	true
+The glomeruli assist the kidneys in filtering urine from the blood .	1	1	4	4	true
+The patient literally sawed it in half using a hard toothbrush over a period of many years .	1	1	10	10	true
+A pulsar powers the supernova remnant by confirming the existence of the point-like source and discovering a cloud of high-energy electrons around the central object .	1	1	5	5	false
+A single blow made with the chisel angled incorrectly can crack a block or break a delicate protrusion .	2	2	6	6	false
+The piglet 's incisor teeth are cut off with pliers .	4	4	9	9	false
+A very robust metal hydride discovery approach was made with a demonstrated HTS methodology .	6	6	13	13	false
+The microwave oven is one of the great inventions of the 20th century .	1	1	2	2	true
+During a dribble the dribbler keeps the ball on the side of his body that is away from the defender .	4	4	7	7	false
+The event featured a demonstration of weaving on a loom by local weaver Nancy Alexander .	9	9	12	12	true
+We did a computer search for studies of vasectomies done without a scalpel versus with a scalpel .	8	8	12	12	false
+A car battery powered a laptop computer connected to a small , portable satellite antenna .	1	2	5	6	true
+The software uses the wrong comment marks for PHP files .	1	1	6	6	true
+In the summer , relax by the lake , take out a paddle boat , canoe or kayak or enjoy the sun at the split rock pool .	12	12	13	13	false
+The boys sawed wood with the sawing machine this afternoon .	1	1	6	7	true
+Anti-gun forces still wield a lot of political power .	1	1	7	8	true
+The mallet would be held in one hand with the chisel touching the wood in the other .	1	1	10	10	false
+The commander sawed logs with his neck hanging radically from one medieval arm while his feet hung three feet above the hardwood floor on the other side .	1	1	6	6	false
+A clinical lectureship combines a university lectureship with specialist registrar training (via an honorary national training number) .	1	2	5	6	false
+Using a small sharp knife , we cut the vanilla bean in half .	4	4	9	10	false
+For this reason the hairdresser prefers conventional scissors , which however do not exhibit the ergonomical advantages .	4	4	7	7	true
+The brachioradialis reflex is observed by striking the brachioradialis tendon directly with the hammer when the patient 's arm is resting .	2	2	13	13	false
+Physician need only bring stethoscope and otoscope .	0	0	4	4	true
+Tou should use a screwdriver to tighten the bolt very tightly .	4	4	8	8	false
+The Norwalk juicer grinds and presses any fruit or vegetable .	2	2	7	7	false
+Quality forged pinking scissors cut with exceptional ease and efficiency .	3	3	7	7	false
+It is a motorized spherical mechanism that is designed to simulate the rowing motion of an oar .	12	13	16	16	false
+Unlike earlier machines , their typewriter permits the typist to see what is being typed and has other features that make it the first really practical typing machine .	5	5	8	8	true
+The river once powered a gristmill .	1	1	5	5	true
+This assumes steady employment of a loom employing a master weaver and three assistants together with female and child helpers .	6	6	10	10	true
+The broadsword was used in some units .	1	1	6	6	true
+Most sewing machines use a sturdier stitch known as the lock-stitch .	1	2	6	6	true
+In a nutshell , orienteering combines a physical skill with a more cerebral element .	4	4	7	8	true
+Originally , the typewriter sales companies sold the typist with the typewriter .	8	8	11	11	true
+The president used the pretext of "national security" .	1	1	4	4	true
+We can make rolling easier and more effective by choosing a heavy rolling pin .	3	3	12	13	false
+The climber had a hook in each hand .	1	1	4	4	true
+A high voltage sand-filled fuse was made using a conventional sand-filled fuse design .	4	4	12	12	false
+The company uses a policy assertion to convey a condition under which they offer a Web service .	1	1	4	5	true
+The booby trap Puller stepped on was made with a howitzer shell .	1	2	10	11	false
+Police officer uses a "Taser" stun gun to subdue a glass-wielding six-year-old .	0	1	5	6	true
+Paul the novelist has a computer but uses his old Smith Corona manual .	2	2	5	5	false
+Further left a boy is fighting a peacock with a stick , and to the right a boy is killing an attacking goat with a spear .	3	3	10	10	true
+Elizabeth Smither 's tokotoko was made with a gear lever .	3	3	8	9	false
+A large rig combines a trampoline system with a bungee cord system .	2	2	5	6	false
+We unscrew a light bulb that uses a lot of electricity and replace it with one that uses much less .	3	4	10	10	true
+In a preliminary investigation , Cheddar cheese was made with a lactococcal starter overproducing different peptidases .	5	6	11	12	false
+The observatory has used a 45-meter cosmic radio emission telescope to make a number of important contributions .	1	1	9	9	true
+The lawn mower cuts a swath of grass as it moves across the lawn .	1	2	5	5	false
+Judges wear the bench wig when they are sitting in court .	0	0	4	4	false
+The gavel helps the judge establish his or her rule over the court room .	1	1	4	4	true
+The knight raised his dragon battle axe , and dealt the creature a crushing blow .	1	1	5	6	true
+The gavel banged and the judge would have sent him back to jail .	1	1	5	5	true
+The book is about HOW the bomb was used in diplomacy .	6	6	10	10	false
+Many games can be played with Go equipment .	1	1	7	7	false
+Sitting by the beach , Yuki mended the net while the fisherman collected the shells .	8	8	11	11	false
+To get a perfect rowing stroke the oar can 't have too much forward pitch or it will dive .	4	5	7	7	false
+The authors take us on an extraordinary journey , from the depths of the ocean to the net of a fisherman .	17	17	20	20	true
+If the weaver sits at the loom for extended periods of time , the intense pressure on her lower body generates severe lower back and leg pain .	2	2	6	6	true
+Just as the net enables the fisherman to catch many fish in one go , the pattern was favored by the samurai as it symbolized victory over many opponents at one time .	3	3	6	6	true
+Evaluators applied the statistically accurate generalization that men are usually taller than women to their estimates of the height of individuals who did not necessarily conform to the generalization .	0	0	5	5	true
+A midwife assists the birth , and women usually rely on their mothers or other women for support during labour .	1	1	4	4	false
+Construction workers utilized a crane to assist in bringing roofing materials up to the top .	0	1	4	4	true
+The surgeon cuts a small hole in the skull and lifts the edge of the brain to expose the nerve .	1	1	5	5	false
+A lodge combines a colonial atmosphere with the rustic beauty and history of Africa .	1	1	4	5	false
+The weaver sits with a loom fixing the back strap , keeps her legs against the footrest , which is adjustable for keeping the loom in tension .	1	1	5	5	true
+A biologist combines a range of diverse and distributed resources (databases , tools , instruments) to answer complex questions .	1	1	9	9	true
+She spread a cream wax , applied strips (the spa uses a stripless wax for the bikini) , and removed them with such agility that we barely flinched .	9	9	13	13	true
+Every time you increase on a sleeve or knitted piece , add a knitting pin to the increase stitch .	13	14	18	18	false
+Strikingly large in scale , this grater shaves a perfect portion in a single stroke .	6	6	10	10	false
+The fascinating aspect of therapeutic riding is that the rider sitting astride a horse walking establishes what is a perfect walking gait for the human .	9	9	13	13	true
+Taxi driver spotted stolen car shortly after police sent out an alert .	0	1	4	4	false
+The builder can mortise the hinges just as fast using a sharp chisel .	1	1	12	12	true
+The woman left the room and walked down the hall and saw the novelist hunched before his computer .	13	13	17	17	true
+Similarly , the western physician 's white coat and stethoscope and the environment of western medical clinics and hospitals create an aura of expectancy and hope for healing .	4	4	9	9	true
+The white fatty substance obtained from the head of the sperm whale was used in pharmaceuticals and candles .	3	3	15	15	false
+As the policeman hit her with his truncheon , another police officer pushed him away from her and shouted for him to stop .	2	2	7	7	true
+Hoover is also notable for an extremely unusual vacuum cleaner , the Hoover Constellation , which is canister type but lacks wheels .	8	8	9	9	true
+The original engine powered a limited-production Mustang model sold for two years .	2	2	7	7	true
+I worked as a crane operator in construction at that time .	4	4	5	5	true
+Bernie the barber downed his scissors , leaving the final triangle of hair uncut .	2	2	5	5	false
+The third observation was made with the Echellette spectrograph .	2	2	8	8	false
+This is the same basic mechanism at work in a vacuum cleaner , though the execution is a bit more complicated .	5	5	10	11	false
+If the same sari is contracted out to a master weaver who owns a loom but employs two adults and two children to work on it , the adults would get Rs .400 each and the children Rs .100 each .	10	10	14	14	true
+At that point the patient grabbed the arm of the dentist to forcibly pull the drill out of his mouth .	4	4	15	15	false
+Unless the public authority knows that the applicant has used a pseudonym , it will be difficult to refuse a request on that ground .	7	7	11	11	true
+Providence had sent the old man into the world with a chisel in his hand .	5	5	11	11	false
+When the power goes , the dentist quizzically raises the drill , and examines it .	6	6	10	10	false
+It seemed to be a regular rule that , whenever a horse stumbled the rider fell off instantly .	11	11	14	14	true
+Electron microscopes are scientific instruments that use a beam of highly energetic electrons to examine objects on a very fine scale .	0	1	8	8	true
+Cuban ballplayers wield a bigger policy bat .	1	1	5	6	true
+The hairdresser took his scissors and held up a coil of hair .	1	1	4	4	true
+A goal is like a mountain outcropping to which a climber throws a grappling hook and pulls themselves up .	10	10	13	14	true
+The quartz sample tube with polyradical residue was cut with diamond knife to the size that fit into the Teflon digestion vessel .	3	3	11	11	false
+A sewing machine is a mechanical (or electromechanical) device that joins fabric using thread .	8	8	13	13	true
+Original sculptures were carved with a chainsaw .	1	1	6	6	false
+Before the barber takes his scissors out , family , friends and rabbis take turns snipping .	2	2	5	5	false
+A gasoline engine powers a hydraulic drive train that provides torque at all six wheels .	2	2	7	7	false
+The authors found that the peak rowing force exerted on the oar blade increased slowly , but quadratically , with stroke rate .	6	7	11	12	false
+The interpretation was made using the Huynh-Feldt adjusted results .	1	1	8	8	false
+The notion of a backprojection was used in that section to characterize the set of states that can reach another set of states in one stage .	1	1	9	9	false

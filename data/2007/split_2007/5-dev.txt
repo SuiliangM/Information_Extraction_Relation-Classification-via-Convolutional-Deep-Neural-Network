@@ -1,0 +1,20 @@
+The entry into force of Protocol 14 to the Convention is a prerequisite for the reforms proposed by the Group of Wise Persons .	12	12	15	15	false
+This parser is used for parsing lists of comma or space separated SVG lengths .	1	1	6	6	true
+Many tons of paper are used for printing tickets .	3	3	8	8	true
+U .S . policy decisions over the past several years , have helped to lay the groundwork for the latest round of talks , she said .	16	16	22	22	false
+It is a tool for visualizing the topology of three-dimensional vector fields .	3	3	7	7	true
+This public key algorithm is used for encrypting emails .	3	3	8	8	true
+The first three arguments will set the environment variable object_is_image if the request was for an image file .	12	12	17	17	true
+The election for the two Legislative Yuan posts is scheduled for February 1 .	1	1	7	7	true
+The largest cutback was for projects in the Canadian region .	2	2	5	5	true
+This information is used for tracking down errors and also to identify people who misuse the commentary area .	1	1	7	7	true
+I 've heard the stock market is making a recovery but it 's a bit early to invest my money .	4	4	5	5	true
+The Office serves as the secretariat for the General Assembly 's only committee dealing exclusively with international cooperation in the peaceful uses of space .	5	5	12	12	false
+We want to assist the Iraqi government in establishing the foundations for a sound economy with the capacity to deliver essential services .	10	10	14	14	false
+The judge held that the circuit court did not err , in light of the fact that the conviction was for felony murder , and given the weight of eyewitness testimony .	18	18	22	22	true
+The Federation is the voice for the humanities and social science researchers .	4	4	7	7	true
+The committee was instructed to come up with a document that can actually serve as a basis for a treaty .	16	16	19	19	false
+This angle convention is used for self-rotation functions .	2	2	7	7	true
+The award was for his outstanding contribution to enterprise .	1	1	6	6	true
+The funeral was for Hakim Taniwal , a tribal elder and provincial governor who was killed in a suicide attack outside his office on Sunday .	1	1	12	12	true
+The mission of the SETI Institute is to explore , understand and explain the origin , nature and prevalence of life in the universe .	1	1	20	20	false
