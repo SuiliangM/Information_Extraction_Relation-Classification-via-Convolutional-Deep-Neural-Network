@@ -50,8 +50,12 @@ def load_embedding(embedding_file, word_list_file, d):
 
     with open(embedding_file, 'r') as f:
         lines = []
-        for line in f:
+        
+        line = f.readline() ## use this function in order to prevent memory error
+        
+        while line:
             lines.append(line)
+            line = f.readline()
 
     def process_line(line):
         return list(map(float, line.split(' ')))
