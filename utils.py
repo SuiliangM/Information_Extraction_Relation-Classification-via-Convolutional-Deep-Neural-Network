@@ -7,11 +7,20 @@ import torch
 def load_data(filename):
     '''
     Load the SemEval data set
+
+    Args:
+        filename: The data file
+
+    Return:
+        seqs: List of texts
+        e1_pos: Position index of e1
+        e2_pos: Position index of e2
+        label: Label of the 
     '''
     seqs = []
     e1_pos = []
     e2_pos = []
-    rs = []
+    label = []
     with open(filename, 'r') as f:
         for line in f:
             data = line.strip().split('\t')
@@ -19,21 +28,34 @@ def load_data(filename):
             seqs.append(data[0])
             e1_pos.append((int(data[1]), int(data[2])))
             e2_pos.append((int(data[3]), int(data[4])))
-            rs.append(data[5])
-    return seqs, e1_pos, e2_pos, rs
+            label.append(data[5])
+    return seqs, e1_pos, e2_pos, label
 
 
 def load_embedding(embedding_file, word_list_file, d):
+    '''
+    Load the word embeddings
+
+    Args:
+
+    Return:
+        embedding_file:
+        word_list_file:
+        d: Dictionary object for index to word mapping
+    '''
     word_list = {}
     with open(word_list_file) as f:
         for i, line in enumerate(f):
             word_list[line.strip()] = i
 
     with open(embedding_file, 'r') as f:
-        lines = f.readlines()
+        lines = []
+        for line in f:
+            lines.append(line)
 
     def process_line(line):
         return list(map(float, line.split(' ')))
+
     lines = list(map(process_line, lines))
 
     val_len = len(d.id2word)
@@ -50,6 +72,9 @@ def load_embedding(embedding_file, word_list_file, d):
 
 
 def get_args():
+    '''
+    Get the parameters
+    '''
     # Default parameters
     parser = argparse.ArgumentParser("CNN")
     parser.add_argument("--dim_posidx", type=int, default=5)
@@ -80,6 +105,9 @@ def get_args():
 
 
 def accuracy(preds, labels):
+    '''
+    Helper function for calculating accuracy
+    '''
     n = preds.size(0)
     preds = torch.max(preds, dim=1)[1]
     correct = (preds == labels).sum()
@@ -87,6 +115,9 @@ def accuracy(preds, labels):
     return acc
 
 def F1(preds, labels):
+    '''
+    Helper function for calculating F1 score
+    '''
     n = preds.size(0)
     preds = torch.max(preds, dim=1)[1]
 

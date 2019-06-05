@@ -8,6 +8,9 @@ from torch.autograd import Variable
 
 
 class CNN(nn.Module):
+    '''
+    CNN model
+    '''
     def __init__(self, args):
         super(CNN, self).__init__()
 
@@ -32,6 +35,10 @@ class CNN(nn.Module):
                             args.dw * 2, args.vac_len_rel)
 
     def forward(self, W, W_pos1, W_pos2, e1, e2):
+        '''
+        Network forwarding function
+        '''
+        # Load embeddings for words and position index features
         e1 = self.word_embedding(e1)
         e2 = self.word_embedding(e2)
         W = self.word_embedding(W)

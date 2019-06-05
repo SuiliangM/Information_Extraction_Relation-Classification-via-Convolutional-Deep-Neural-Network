@@ -28,6 +28,7 @@ class SemEvalDataset(Dataset):
 
     def vectorize_seq(self, seqs, e1_pos, e2_pos):
         '''
+        Return a vector of the sequence and the position indices
         '''
         new_seqs = np.zeros((len(seqs), self.max_len))
         dist1s = np.zeros((len(seqs), self.max_len))
@@ -63,6 +64,9 @@ class SemEvalDataset(Dataset):
 
 
 class Dictionary(object):
+    '''
+    A object for mutual mapping from the word to indices and the indices to words
+    '''
     def __init__(self):
         self.word2id = {}
         self.id2word = []

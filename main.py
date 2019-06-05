@@ -14,6 +14,9 @@ from utils import load_data, load_embedding, get_args, accuracy, F1
 
 
 def train():
+    '''
+    Train function
+    '''
     args = get_args()
 
     # Load data
@@ -103,6 +106,7 @@ def train():
                 val_total_f1 += f1
             best_eval_acc = max(best_eval_acc, val_total_acc/nval_batch)
 
+            # Write the stats to tensorboard
             writer.add_scalar('test/accuracy', val_total_acc/nval_batch, i)
             writer.add_scalar('test/F1', val_total_f1/nval_batch, i)
             print("Epoch: {}, Val acc: {:.4f}, F1: {:.4f}".

@@ -11,7 +11,7 @@ import re
 
 def process_question(question):
     '''
-
+    Read through a line of data sample, extract the line, entity indices and position indices
     '''
     question = question.replace("'", " '")
     question = question.replace(",", " ,")
@@ -39,6 +39,14 @@ def process_question(question):
 
 
 def process_file(in_filename, out_filename):
+    '''
+    Process a file and output
+
+    Args:
+
+    Return:
+    
+    '''
     max_len = 0
     max_distance = 0
     with open(in_filename, 'r') as f:
@@ -63,6 +71,9 @@ def process_file(in_filename, out_filename):
 
 
 def structure_2007(filename):
+    '''
+
+    '''
     output = open(filename.replace('raw', 'structured'), 'w')
     lines = open(filename).readlines()
 
@@ -123,6 +134,9 @@ def process_embedding(filename, out_path):
         out_embedding.write(" ".join(embed) + '\n')
 
 def binarize_2010(filename, train_test):
+    '''
+    Biarize the SemEval 2010 data
+    '''
     relations = [[], [], [], [], [], [], [], []]    
     lines = open(filename).readlines()
     for line in lines:
@@ -152,6 +166,7 @@ def binarize_2010(filename, train_test):
 
 def merge_bin_2010(filename):
     '''
+
     '''
     negatives = open('data/2010/bin_raw_2010/test/test-8').readlines()
     positive = open(filename).readlines()
